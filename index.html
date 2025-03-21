@@ -1857,7 +1857,9 @@
         const randomKey = getRandomKey(quiz);
         const selectedObject = quiz[randomKey];
         const pregunta = selectedObject['pregunta'];
-        document.getElementById('pregunta').textContent = pregunta;
+        const preguntaElement = document.getElementById('pregunta');
+        preguntaElement.style.fontSize = '2em';
+        preguntaElement.innerHTML = pregunta;
         const respuestas = selectedObject['respuesta'];
 
         const formElement = document.createElement('form');

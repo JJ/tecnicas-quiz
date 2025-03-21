@@ -1879,6 +1879,12 @@
             hiddenCorrect.value = option.correcto;
             label.appendChild(hiddenCorrect);
 
+            const hiddenJustificacion = document.createElement('input');
+            hiddenJustificacion.type = 'hidden';
+            hiddenJustificacion.name = 'justificacion';
+            hiddenJustificacion.value = option.justificacion;
+            label.appendChild(hiddenJustificacion);
+
             formElement.appendChild(label);
             formElement.appendChild(document.createElement('br'));
         });
@@ -1891,15 +1897,17 @@
         document.getElementById('submit').appendChild(submitButton);
         submitButton.onclick = function() {
             const selectedOption = document.querySelector('input[name="respuesta"]:checked');
+            console.log(selectedOption);
             if (selectedOption) {
-                const correctValue = selectedOption.nextElementSibling.value;
+                const correctValue = selectedOption.parentElement.querySelector('input[name="correcto"]').value;
+                const justificacion = selectedOption.parentElement.querySelector('input[name="justificacion"]').value;
+
                 const resultElement = document.getElementById('result');
                 resultElement.style.fontSize = '1.5em';
                 if (correctValue === 'true') {
-                    resultElement.textContent = '¡Correcto!';
-                    resultElement.style.color = 'green';
+                  resultElement.innerHTML = '✅ ¡Correcto!: <em>' + justificacion + '</em>';
                 } else {
-                    resultElement.textContent = 'Incorrecto. Inténtalo de nuevo.';
+                    resultElement.innerHTML = '😢 ¡Lo siento!: ' + justificacion;
                     resultElement.style.color = 'red';
                 }
             }

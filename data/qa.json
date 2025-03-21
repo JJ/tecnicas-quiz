@@ -1,0 +1,402 @@
+[
+  {
+    "pregunta": "¿Qué tipo de teselas se utilizaban en el mosaico del Mihrab de una mezquita?",
+    "respuestas": [
+      {
+        "texto": "Teselas de piedra caliza",
+        "correcta": false,
+        "justificacion": "Las fuentes indican que las teselas del mosaico del Mihrab eran de pasta vítrea."
+      },
+      {
+        "texto": "Teselas de cerámica esmaltada",
+        "correcta": false,
+        "justificacion": "Las fuentes especifican que las teselas del mosaico del Mihrab eran de pasta vítrea."
+      },
+      {
+        "texto": "Teselas de pasta vítrea",
+        "correcta": true,
+        "justificacion": "Según la fuente, el mosaico del Mihrab utilizaba teselas de pasta vítrea."
+      },
+      {
+        "texto": "Teselas de mármol",
+        "correcta": false,
+        "justificacion": "La fuente señala que el material de las teselas del mosaico del Mihrab era pasta vítrea."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué se utilizaba para pegar las teselas en el mosaico del Mihrab?",
+    "respuestas": [
+      {
+        "texto": "Yeso",
+        "correcta": false,
+        "justificacion": "La fuente menciona que las teselas se pegaban con mortero."
+      },
+      {
+        "texto": "Cal",
+        "correcta": false,
+        "justificacion": "El texto especifica que el adhesivo utilizado era mortero."
+      },
+      {
+        "texto": "Mortero",
+        "correcta": true,
+        "justificacion": "La fuente indica que las teselas del mosaico se pegaban utilizando mortero."
+      },
+      {
+        "texto": "Cola proteínica",
+        "correcta": false,
+        "justificacion": "Según la fuente, el material de unión para las teselas era mortero."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de mortero se empleaba en los morteros de la pintura mural egipcia?",
+    "respuestas": [
+      {
+        "texto": "Mortero de cal",
+        "correcta": false,
+        "justificacion": "La fuente señala que los morteros de la pintura mural egipcia tenían base de yeso."
+      },
+      {
+        "texto": "Mortero de arcilla",
+        "correcta": false,
+        "justificacion": "El texto especifica que los morteros de la pintura mural egipcia eran a base de yeso."
+      },
+      {
+        "texto": "Mortero de yeso",
+        "correcta": true,
+        "justificacion": "La fuente afirma que los morteros de la pintura mural egipcia estaban hechos a base de yeso."
+      },
+      {
+        "texto": "Mortero mixto de cal y arcilla",
+        "correcta": false,
+        "justificacion": "Si bien se encontraron mezclas de arcilla y cal en algunos morteros egipcios, los morteros de la pintura mural se mencionan específicamente como a base de yeso."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la base para la obtención de la cal?",
+    "respuestas": [
+      {
+        "texto": "Yeso",
+        "correcta": false,
+        "justificacion": "La fuente indica que la base para obtener la cal es el carbonato cálcico procedente de las rocas calizas."
+      },
+      {
+        "texto": "Arcilla",
+        "correcta": false,
+        "justificacion": "Según la fuente, la cal se obtiene a partir del carbonato cálcico de las rocas calizas."
+      },
+      {
+        "texto": "Rocas silíceas",
+        "correcta": false,
+        "justificacion": "El texto especifica que la base para la obtención de la cal es el carbonato cálcico procedente de las rocas calizas."
+      },
+      {
+        "texto": "Carbonato cálcico",
+        "correcta": true,
+        "justificacion": "La fuente señala que la base para la obtención de la cal es el carbonato cálcico procedente de las rocas calizas."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué condición es necesaria para pintar al fresco?",
+    "respuestas": [
+      {
+        "texto": "Pintar sobre el mortero seco",
+        "correcta": false,
+        "justificacion": "La fuente indica que siempre hay que pintar al fresco cuando el mortero está húmedo."
+      },
+      {
+        "texto": "Usar pigmentos mezclados con aceite",
+        "correcta": false,
+        "justificacion": "La pintura al fresco implica la inclusión de pigmentos en la estructura del carbonato cálcico, no su mezcla con óleo."
+      },
+      {
+        "texto": "Pintar rápidamente sobre el mortero fresco",
+        "correcta": true,
+        "justificacion": "Según la fuente, no se puede pintar al fresco si se tarda mucho, ya que se debe hacer sobre el mortero fresco (la 'giornata')."
+      },
+      {
+        "texto": "Aplicar una imprimación oleosa antes de pintar",
+        "correcta": false,
+        "justificacion": "La técnica del fresco se basa en la reacción de los pigmentos con la cal del mortero húmedo, no en una imprimación oleosa."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué diferencia fundamental existe entre el yeso y la cal?",
+    "respuestas": [
+      {
+        "texto": "El yeso está compuesto principalmente por carbonato cálcico y la cal por sulfato cálcico",
+        "correcta": false,
+        "justificacion": "La fuente establece claramente que el yeso es sulfato cálcico y la cal es carbonato cálcico."
+      },
+      {
+        "texto": "Ambos son formas diferentes del mismo compuesto químico",
+        "correcta": false,
+        "justificacion": "La fuente especifica que uno es sulfato cálcico y el otro carbonato cálcico, por lo que son compuestos químicos diferentes."
+      },
+      {
+        "texto": "El yeso es sulfato cálcico y la cal es carbonato cálcico",
+        "correcta": true,
+        "justificacion": "La fuente define claramente que el yeso es sulfato cálcico y la cal es carbonato cálcico."
+      },
+      {
+        "texto": "La cal se utiliza principalmente como pigmento y el yeso como aglomerante",
+        "correcta": false,
+        "justificacion": "Ambos se utilizan principalmente como aglomerantes en diferentes técnicas."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué material es fundamentalmente el mármol?",
+    "respuestas": [
+      {
+        "texto": "Silicato de aluminio",
+        "correcta": false,
+        "justificacion": "La fuente indica que el mármol está compuesto principalmente por carbonato cálcico."
+      },
+      {
+        "texto": "Óxido de silicio",
+        "correcta": false,
+        "justificacion": "Según la fuente, el componente principal del mármol es el carbonato cálcico."
+      },
+      {
+        "texto": "Carbonato cálcico",
+        "correcta": true,
+        "justificacion": "La fuente señala que el mármol está compuesto principalmente por carbonato cálcico."
+      },
+      {
+        "texto": "Feldespato",
+        "correcta": false,
+        "justificacion": "El texto especifica que el mármol está compuesto principalmente por carbonato cálcico."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué propiedad de la madera se refiere a su diferente comportamiento según las direcciones del espacio?",
+    "respuestas": [
+      {
+        "texto": "Higroscopicidad",
+        "correcta": false,
+        "justificacion": "La higroscopicidad se refiere a la capacidad de captar agua."
+      },
+      {
+        "texto": "Plasticidad",
+        "correcta": false,
+        "justificacion": "La plasticidad es la deformación bajo presión constante."
+      },
+      {
+        "texto": "Anisotropía",
+        "correcta": true,
+        "justificacion": "La fuente define la anisotropía como el diferente comportamiento de la madera según las direcciones del espacio."
+      },
+      {
+        "texto": "Elasticidad",
+        "correcta": false,
+        "justificacion": "La elasticidad es la capacidad de deformarse y volver a la posición inicial."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué componente principal de la madera es más vulnerable al ataque de carcoma y termitas?",
+    "respuestas": [
+      {
+        "texto": "Lignina",
+        "correcta": false,
+        "justificacion": "La lignina tiene una función estructural y el texto indica que los insectos se zampan menos la madera muy lignificada."
+      },
+      {
+        "texto": "Resinas",
+        "correcta": false,
+        "justificacion": "Las resinas pueden dar cierta coloración y hacer a la madera vulnerable al biodeterioro, pero la celulosa es el principal nutriente."
+      },
+      {
+        "texto": "Celulosa",
+        "correcta": true,
+        "justificacion": "La fuente señala que la carcoma, termitas y bacterias se nutren de la celulosa de la madera."
+      },
+      {
+        "texto": "Taninos",
+        "correcta": false,
+        "justificacion": "Los taninos pueden influir en la coloración y vulnerabilidad, pero la celulosa es la principal fuente de alimento para los insectos mencionados."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes fibras vegetales fue la primera utilizada para telas?",
+    "respuestas": [
+      {
+        "texto": "Algodón",
+        "correcta": false,
+        "justificacion": "La fuente indica que el lino fue la primera fibra utilizada para telas."
+      },
+      {
+        "texto": "Cáñamo",
+        "correcta": false,
+        "justificacion": "Si bien el cáñamo se utilizó como soporte textil, el lino se menciona como la primera fibra."
+      },
+      {
+        "texto": "Yute",
+        "correcta": false,
+        "justificacion": "El yute es mencionado como fibra vegetal utilizada, pero el lino se señala como la primera."
+      },
+      {
+        "texto": "Lino",
+        "correcta": true,
+        "justificacion": "Según la fuente, el lino fue la primera fibra utilizada para telas."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué inconveniente principal presenta el algodón como soporte de pintura?",
+    "respuestas": [
+      {
+        "texto": "Su poca disponibilidad histórica en Europa",
+        "correcta": false,
+        "justificacion": "Si bien fue cara hasta el siglo XIX, el principal inconveniente mencionado es su alta contracción con los cambios de humedad."
+      },
+      {
+        "texto": "Su baja resistencia mecánica",
+        "correcta": false,
+        "justificacion": "La fuente no se centra en la resistencia mecánica del algodón como su principal problema."
+      },
+      {
+        "texto": "Su alto grado de higroscopicidad y consiguiente contracción",
+        "correcta": true,
+        "justificacion": "La fuente señala que el algodón se encoge mucho con los cambios de humedad, lo que lo hace inadecuado como soporte hasta el siglo XIX."
+      },
+      {
+        "texto": "Su dificultad para ser tensado en un bastidor",
+        "correcta": false,
+        "justificacion": "La fuente no menciona la dificultad de tensado como el principal problema del algodón."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿De qué animal se obtiene principalmente el pergamino?",
+    "respuestas": [
+      {
+        "texto": "Gusano de seda",
+        "correcta": false,
+        "justificacion": "El gusano de seda produce seda, no pergamino."
+      },
+      {
+        "texto": "Árbol",
+        "correcta": false,
+        "justificacion": "El amatl se obtiene del árbol como sucedáneo del papel, pero el pergamino es de piel animal."
+      },
+      {
+        "texto": "Piel de animales",
+        "correcta": true,
+        "justificacion": "La fuente indica que el pergamino se obtiene de piel de animales como oveja, cabra o vaca."
+      },
+      {
+        "texto": "Planta de algodón",
+        "correcta": false,
+        "justificacion": "El algodón es una fibra vegetal utilizada para tejidos y papel, no para pergamino."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de tinta antigua es conocida por no tener acidez?",
+    "respuestas": [
+      {
+        "texto": "Tintas metaloácidas",
+        "correcta": false,
+        "justificacion": "La fuente señala que las tintas metaloácidas le dan acidez al texto."
+      },
+      {
+        "texto": "Tintas ferrobáricas",
+        "correcta": false,
+        "justificacion": "Las tintas ferrobáricas, un tipo de tinta metaloácida, también son ácidas."
+      },
+      {
+        "texto": "Tinta china",
+        "correcta": true,
+        "justificacion": "Según la fuente, la tinta china, hecha de negro de humo, tiene muy buena calidad y no tiene acidez."
+      },
+      {
+        "texto": "Tintas de taninos",
+        "correcta": false,
+        "justificacion": "Las tintas hechas de la corteza del corcho, ricas en taninos, son ácidas."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es el componente principal de la cola utilizada en la preparación de soportes pictóricos, obtenida de restos animales?",
+    "respuestas": [
+      {
+        "texto": "Celulosa",
+        "correcta": false,
+        "justificacion": "La celulosa es un componente principal de las fibras vegetales y la madera."
+      },
+      {
+        "texto": "Caseína",
+        "correcta": false,
+        "justificacion": "La caseína es una proteína obtenida del precipitado de la leche."
+      },
+      {
+        "texto": "Colágeno",
+        "correcta": true,
+        "justificacion": "La fuente indica que las colas proteínicas hechas con restos de animales contienen fundamentalmente colágeno."
+      },
+      {
+        "texto": "Almidón",
+        "correcta": false,
+        "justificacion": "El almidón es un polisacárido de origen vegetal."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué aceite se menciona en la fuente como el de secado más rápido?",
+    "respuestas": [
+      {
+        "texto": "Aceite de nuez",
+        "correcta": false,
+        "justificacion": "La fuente indica que el aceite de nuez seca más lento que el de linaza y adormidera."
+      },
+      {
+        "texto": "Aceite de adormidera",
+        "correcta": false,
+        "justificacion": "Según la fuente, el aceite de linaza es el que seca más rápidamente."
+      },
+      {
+        "texto": "Aceite de oliva",
+        "correcta": false,
+        "justificacion": "El aceite de oliva no se menciona como un aceite secativo utilizado en pintura en este contexto."
+      },
+      {
+        "texto": "Aceite de linaza",
+        "correcta": true,
+        "justificacion": "La fuente afirma que el aceite de linaza es el que seca más rápidamente."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué función principal tiene la capa de 'bol' en la preparación de soportes para el dorado?",
+    "respuestas": [
+      {
+        "texto": "Aportar color dorado a la superficie",
+        "correcta": false,
+        "justificacion": "El color dorado lo aporta el pan de oro aplicado sobre el bol."
+      },
+      {
+        "texto": "Impermeabilizar la superficie para el oro",
+        "correcta": false,
+        "justificacion": "La función principal del bol es servir de base fina para el oro."
+      },
+      {
+        "texto": "Servir de base fina y sin textura para la aplicación del pan de oro",
+        "correcta": true,
+        "justificacion": "La fuente explica que el bol, una arcilla de granulometría finísima, sirve de base (cama) al oro para que no deje textura."
+      },
+      {
+        "texto": "Acelerar el proceso de secado del pan de oro",
+        "correcta": false,
+        "justificacion": "El bol se utiliza como base antes de la aplicación del pan de oro."
+      }
+    ]
+  }
+]

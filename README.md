@@ -16,6 +16,6 @@ correcta; para las respuestas incorrectas, indicar por qué no lo son.
 Genera al menos 50 preguntas de esta forma. En cada elemento del array, la
 pregunta ocupará el campo "pregunta", las respuestas el campo "respuesta", y
 cada respuesta debe tener los campos "texto" para el contenido, "correcto" si es
-correcta o no, "justificación" para explicar por qué es correcta o
+correcta o no, "justificacion" para explicar por qué es correcta o
 incorrecta. En las descripciones de esta justificación, evitar expresiones del
 tipo "la fuente indica que..."

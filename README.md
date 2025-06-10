@@ -3,6 +3,7 @@ Quiz en una web para la asignatura Técnicas Artísticas
 
 ## Prompt usado
 
+```
 Por favor, genera un array en JSON con las siguientes características:
 
 1. Cada elemento debe tener una pregunta extraída de esta fuente, y cuatro
@@ -19,3 +20,4 @@ cada respuesta debe tener los campos "texto" para el contenido, "correcto" si es
 correcta o no, "justificacion" para explicar por qué es correcta o
 incorrecta. En las descripciones de esta justificación, evitar expresiones del
 tipo "la fuente indica que..."
+```

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cycladic Quiz</title>
+    <title>Quiz de Técnicas Artísticas, 1º HdA</title>
     <script type="application/json" id="tecniquiz">[
   {
     "pregunta": "¿Qué método de investigación de materiales artísticos se menciona que se utilizará en el curso, caracterizado por el análisis por niveles?",
@@ -3835,15 +3835,18 @@
 </head>
 <body>
     <h1>Quiz de Técnicas</h1>
+    <h2 id="contaje"></h2>
     <h3>Dale a recargar para generar una nueva pregunta</h3>
 <script>
     let quiz = null;
     document.addEventListener('DOMContentLoaded', (event) => {
         const data = document.getElementById('tecniquiz').textContent;
+        const contajeElement = document.getElementById('contaje');
         quiz = JSON.parse(data);
         console.log(quiz);
+        contajeElement.innerHTML = "<strong>" + quiz.length + "</strong> preguntas guardadas";
         if (quiz) {
-            presentQuiz( quiz );
+                presentQuiz( quiz );
         }
     });
 

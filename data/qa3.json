@@ -1,0 +1,2003 @@
+[
+  {
+    "pregunta": "¿Qué método de investigación de materiales artísticos se menciona que se utilizará en el curso, caracterizado por el análisis por niveles?",
+    "respuesta": [
+      {
+        "texto": "Análisis cromático",
+        "correcto": false,
+        "justificacion": "El análisis cromático se centra en el color, no en la estructura por niveles."
+      },
+      {
+        "texto": "Análisis estratigráfico",
+        "correcto": true,
+        "justificacion": "Se menciona específicamente que los materiales se investigarán de modo estratigráfico, es decir, por niveles."
+      },
+      {
+        "texto": "Análisis compositivo",
+        "correcto": false,
+        "justificacion": "El análisis compositivo se refiere a la disposición de los elementos en la obra, no a la investigación material por capas."
+      },
+      {
+        "texto": "Análisis iconográfico",
+        "correcto": false,
+        "justificacion": "El análisis iconográfico interpreta el significado de las imágenes, sin relación con la investigación material por niveles."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué material se utilizaba para hacer las teselas del mosaico del Mihrab de la mezquita?",
+    "respuesta": [
+      {
+        "texto": "Piedra natural",
+        "correcto": false,
+        "justificacion": "Las teselas de este mosaico no eran de piedra natural."
+      },
+      {
+        "texto": "Cerámica esmaltada",
+        "correcto": false,
+        "justificacion": "El material no era cerámica esmaltada."
+      },
+      {
+        "texto": "Pasta vítrea",
+        "correcto": true,
+        "justificacion": "Se especifica que las teselas del mosaico del Mihrab eran de pasta vítrea."
+      },
+      {
+        "texto": "Marfil",
+        "correcto": false,
+        "justificacion": "El marfil es un material diferente utilizado en escultura, no en este mosaico."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿A qué se deben los avances estilísticos en la historia del arte, según la introducción?",
+    "respuesta": [
+      {
+        "texto": "Principalmente a cambios sociales y políticos.",
+        "correcto": false,
+        "justificacion": "Aunque pueden influir, no se señala esto como la causa principal en este contexto."
+      },
+      {
+        "texto": "Exclusivamente a la habilidad individual del artista.",
+        "correcto": false,
+        "justificacion": "La habilidad es un factor, pero no el único que impulsa los avances estilísticos mencionados."
+      },
+      {
+        "texto": "A avances técnicos y a la búsqueda del propio autor y de nuevos estilos.",
+        "correcto": true,
+        "justificacion": "Se explica que los avances estilísticos se deben tanto a avances técnicos como a la búsqueda e investigación de los artistas por nuevos estilos."
+      },
+      {
+        "texto": "Solo a la disponibilidad de nuevos materiales.",
+        "correcto": false,
+        "justificacion": "La disponibilidad de materiales es un factor técnico, pero no es la única causa mencionada para los avances estilísticos."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué permitió la popularización de los métodos de destilación desde la Edad Media, según el texto?",
+    "respuesta": [
+      {
+        "texto": "La creación de nuevos pigmentos.",
+        "correcto": false,
+        "justificacion": "La popularización de estos métodos de destilación se relaciona con otro tipo de materiales pictóricos."
+      },
+      {
+        "texto": "Que los pintores pudieran crear barnices que secaban mucho más rápido.",
+        "correcto": true,
+        "justificacion": "La popularización de los métodos de destilación para usar esencias como el aguarrás o la trementina permitió a los pintores crear barnices de secado más rápido."
+      },
+      {
+        "texto": "La fabricación industrial de óleos.",
+        "correcto": false,
+        "justificacion": "La industrialización de óleos es posterior a la popularización de estos métodos de destilación medievales."
+      },
+      {
+        "texto": "La mejora de la conservación de las obras.",
+        "correcto": false,
+        "justificacion": "Aunque los barnices pueden afectar la conservación, el texto se centra en la velocidad de secado que esto posibilitó."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cómo ven los pintores las posibilidades técnicas, según el texto?",
+    "respuesta": [
+      {
+        "texto": "Mediante el estudio de tratados antiguos.",
+        "correcto": false,
+        "justificacion": "Aunque el estudio puede ser útil, el texto destaca otras cualidades del pintor."
+      },
+      {
+        "texto": "Principalmente a través de la enseñanza académica.",
+        "correcto": false,
+        "justificacion": "La formación es relevante, pero la capacidad para ver posibilidades técnicas se atribuye a cualidades personales."
+      },
+      {
+        "texto": "Por su ingenio e investigación personal, buscando nuevas soluciones a problemas.",
+        "correcto": true,
+        "justificacion": "Las posibilidades técnicas las perciben los pintores gracias a su ingenio e investigación personal, buscando soluciones innovadoras a los desafíos que encuentran."
+      },
+      {
+        "texto": "Imitando las obras de otros maestros.",
+        "correcto": false,
+        "justificacion": "La imitación es una práctica común, pero la percepción de posibilidades técnicas va más allá de copiar."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Por qué tardó Leonardo 5 años en pintar 'La Última Cena', según el texto?",
+    "respuesta": [
+      {
+        "texto": "Por la complejidad de la composición y el gran número de figuras.",
+        "correcto": false,
+        "justificacion": "Aunque la composición es compleja, la razón dada se relaciona con la técnica utilizada."
+      },
+      {
+        "texto": "Porque la veladura tardaba meses en secarse.",
+        "correcto": true,
+        "justificacion": "La razón específica mencionada para la larga duración fue el tiempo que tardaba en secarse la veladura que aplicaba Leonardo."
+      },
+      {
+        "texto": "Debido a problemas con los pigmentos utilizados.",
+        "correcto": false,
+        "justificacion": "El texto no menciona problemas con los pigmentos como causa de la duración."
+      },
+      {
+        "texto": "Por encargos simultáneos que lo distraían.",
+        "correcto": false,
+        "justificacion": "La explicación proporcionada se centra en un aspecto técnico de su proceso de pintura."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la estructura estratigráfica básica de una obra pictórica desde abajo hacia arriba, según el esquema presentado?",
+    "respuesta": [
+      {
+        "texto": "Capa pictórica, Capas de preparación, Soporte, Barniz.",
+        "correcto": false,
+        "justificacion": "Esta secuencia no corresponde al orden desde abajo hacia arriba."
+      },
+      {
+        "texto": "Soporte, Capas de preparación, Dibujos preparatorios, Capa pictórica, Veladuras, Barnices.",
+        "correcto": true,
+        "justificacion": "El esquema muestra esta sucesión de capas, comenzando por el soporte y terminando en los barnices."
+      },
+      {
+        "texto": "Imprimación, Soporte, Capas pictóricas, Barnices originales.",
+        "correcto": false,
+        "justificacion": "La imprimación es parte de las capas de preparación y el orden presentado no es correcto."
+      },
+      {
+        "texto": "Dibujos preparatorios, Soporte, Capas de preparación, Capas pictóricas.",
+        "correcto": false,
+        "justificacion": "Los dibujos preparatorios se encuentran por encima de las capas de preparación y el soporte."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Para qué puede servir la capa de imprimación (base general) en una obra pictórica?",
+    "respuesta": [
+      {
+        "texto": "Aportar la textura final de la obra.",
+        "correcto": false,
+        "justificacion": "Aunque puede influir, su función principal no es definir la textura final por sí sola."
+      },
+      {
+        "texto": "Actuar como barniz de protección.",
+        "correcto": false,
+        "justificacion": "El barniz es una capa diferente con función protectora."
+      },
+      {
+        "texto": "Servir para identificar etapas de la pintura.",
+        "correcto": true,
+        "justificacion": "Las capas de preparación, imprimación o aparejo pueden servir para identificar etapas de la pintura."
+      },
+      {
+        "texto": "Aportar el color principal de la composición.",
+        "correcto": false,
+        "justificacion": "El color principal se aplica en las capas pictóricas."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué es una 'carga' en una capa pictórica?",
+    "respuesta": [
+      {
+        "texto": "Un tipo de barniz.",
+        "correcto": false,
+        "justificacion": "Una carga es un material añadido a la pintura o preparación, no un barniz."
+      },
+      {
+        "texto": "Un material filmógeno que fija los pigmentos.",
+        "correcto": false,
+        "justificacion": "Esa es la definición de un aglutinante."
+      },
+      {
+        "texto": "Un material que le da textura, como marmolina o sílice.",
+        "correcto": true,
+        "justificacion": "Se describe la 'carga' como un material añadido para dar textura, mencionando marmolina o sílice como ejemplos."
+      },
+      {
+        "texto": "Un pigmento que aporta color.",
+        "correcto": false,
+        "justificacion": "Los pigmentos aportan color; la carga puede ser incolora o de color poco definido."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué diferencia la aproximación de los primitivos flamencos a la materia pictórica de la de los venecianos?",
+    "respuesta": [
+      {
+        "texto": "Los flamencos no usaban pigmentos, solo tintes.",
+        "correcto": false,
+        "justificacion": "Ambos usaban pigmentos en su pintura."
+      },
+      {
+        "texto": "Los venecianos no usaban dibujo, solo color y forma.",
+        "correcto": false,
+        "justificacion": "Los venecianos también consideraban la forma y el color, además de la pincelada y la textura."
+      },
+      {
+        "texto": "Los flamencos consideraban la materia pictórica como una mera herramienta, mientras los venecianos la usaban como tal, aprovechando la textura.",
+        "correcto": true,
+        "justificacion": "Los primitivos flamencos veían la materia como una herramienta para lograr sus objetivos, mientras los venecianos comenzaron a usarla como materia pictórica en sí misma, aprovechando su textura."
+      },
+      {
+        "texto": "Los venecianos solo pintaban sobre lienzo, mientras los flamencos solo sobre tabla.",
+        "correcto": false,
+        "justificacion": "Aunque la tabla era común en Flandes y el lienzo en Venecia, la distinción se centra en el concepto de la materia pictórica, no exclusivamente en el soporte."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué material inorgánico se menciona como soporte para pintura cuya complejidad técnica es mayor que la mural, debido a la cocción?",
+    "respuesta": [
+      {
+        "texto": "Piedra",
+        "correcto": false,
+        "justificacion": "La piedra es un soporte inorgánico, pero la complejidad técnica mencionada se atribuye a otro material que requiere cocción."
+      },
+      {
+        "texto": "Cerámica",
+        "correcto": true,
+        "justificacion": "Se señala la cerámica como un soporte inorgánico cuya elaboración es aún más compleja que la pintura mural, ya que requiere cocción."
+      },
+      {
+        "texto": "Mural",
+        "correcto": false,
+        "justificacion": "La pintura mural es una técnica, no un material de soporte inorgánico específico."
+      },
+      {
+        "texto": "Metal",
+        "correcto": false,
+        "justificacion": "El metal puede ser un soporte, pero no se menciona en este contexto como el de mayor complejidad técnica inorgánica por cocción."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la principal diferencia entre los barnices originales y los barnices de restauración en una obra?",
+    "respuesta": [
+      {
+        "texto": "Los barnices originales siempre fijan suciedad, los de restauración no.",
+        "correcto": false,
+        "justificacion": "Los barnices originales a veces fijan suciedad, pero no siempre. Los de restauración buscan evitarlo."
+      },
+      {
+        "texto": "Los barnices de restauración se aplican siempre por encima de los originales.",
+        "correcto": true,
+        "justificacion": "El esquema muestra los barnices de restauración como capas adicionales por encima de los barnices originales."
+      },
+      {
+        "texto": "Los barnices originales son siempre transparentes, los de restauración son coloreados.",
+        "correcto": false,
+        "justificacion": "No se menciona que los barnices originales sean siempre transparentes, y los de restauración son generalmente transparentes para no alterar la visión de la obra."
+      },
+      {
+        "texto": "Solo los barnices originales son reversibles.",
+        "correcto": false,
+        "justificacion": "Se menciona que en restauración todo debe ser reversible, excepto la limpieza, lo que implicaría que los barnices de restauración son reversibles."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Según el texto, qué aspecto de la restauración es irreversible?",
+    "respuesta": [
+      {
+        "texto": "La aplicación de nuevos barnices.",
+        "correcto": false,
+        "justificacion": "Los barnices de restauración deberían ser reversibles."
+      },
+      {
+        "texto": "La reintegración de lagunas.",
+        "correcto": false,
+        "justificacion": "Las reintegraciones de lagunas deben ser reversibles."
+      },
+      {
+        "texto": "La limpieza.",
+        "correcto": true,
+        "justificacion": "Se afirma que en restauración todo es (o debe ser) reversible, excepto la limpieza."
+      },
+      {
+        "texto": "El traslado de soportes.",
+        "correcto": false,
+        "justificacion": "El traslado de soportes es una intervención que puede ser compleja, pero no se define como inherentemente irreversible en este contexto."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué material filmógeno se menciona que fija y cohesiona los pigmentos?",
+    "respuesta": [
+      {
+        "texto": "El pigmento",
+        "correcto": false,
+        "justificacion": "El pigmento es el que aporta color, no el que fija."
+      },
+      {
+        "texto": "El aglutinante",
+        "correcto": true,
+        "justificacion": "Se define el aglutinante como el material filmógeno que fija y cohesiona los pigmentos."
+      },
+      {
+        "texto": "La carga",
+        "correcto": false,
+        "justificacion": "La carga aporta cuerpo o textura, pero no fija los pigmentos por sí sola."
+      },
+      {
+        "texto": "El diluyente",
+        "correcto": false,
+        "justificacion": "El diluyente modifica la consistencia, no fija los pigmentos."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la composición básica de un pigmento?",
+    "respuesta": [
+      {
+        "texto": "Un líquido transparente que aporta color.",
+        "correcto": false,
+        "justificacion": "Eso describiría un colorante, no un pigmento tal como se define aquí."
+      },
+      {
+        "texto": "Un polvo finamente molido que aporta color.",
+        "correcto": true,
+        "justificacion": "Se describe el pigmento como polvo finamente molido que aporta color a las capas pictóricas y de preparación."
+      },
+      {
+        "texto": "Una resina que se disuelve en esencias.",
+        "correcto": false,
+        "justificacion": "Eso describe un tipo de aglutinante o componente de barniz."
+      },
+      {
+        "texto": "Un material que mejora las propiedades del mortero.",
+        "correcto": false,
+        "justificacion": "Eso se refiere a un aditivo para morteros."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes materiales se menciona como soporte orgánico para pintura?",
+    "respuesta": [
+      {
+        "texto": "Cerámica",
+        "correcto": false,
+        "justificacion": "La cerámica se clasifica como soporte inorgánico."
+      },
+      {
+        "texto": "Piedra",
+        "correcto": false,
+        "justificacion": "La piedra se clasifica como soporte inorgánico."
+      },
+      {
+        "texto": "Madera",
+        "correcto": true,
+        "justificacion": "La madera se lista como un soporte orgánico."
+      },
+      {
+        "texto": "Mural",
+        "correcto": false,
+        "justificacion": "La pintura mural es una técnica, no un soporte orgánico específico."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Según Plinio, en su Historia Natural, ¿cómo divide las artes plásticas?",
+    "respuesta": [
+      {
+        "texto": "Pintura, escultura y arquitectura.",
+        "correcto": false,
+        "justificacion": "Aunque estas son artes plásticas, la división de Plinio mencionada es diferente."
+      },
+      {
+        "texto": "Modelado, fundición y talla.",
+        "correcto": false,
+        "justificacion": "Estas son técnicas, pero la división de Plinio usa otra terminología."
+      },
+      {
+        "texto": "Fusoria, plástica y escultura.",
+        "correcto": true,
+        "justificacion": "Plinio divide las artes plásticas en fusoria (fundir metales), plástica (trabajar barro/cera) y escultura (trabajar piedra)."
+      },
+      {
+        "texto": "Arcilla, madera y piedra.",
+        "correcto": false,
+        "justificacion": "Estos son materiales, no la división de artes plásticas según Plinio."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes técnicas escultóricas describe el arte de trabajar el barro o la cera?",
+    "respuesta": [
+      {
+        "texto": "Fusoria",
+        "correcto": false,
+        "justificacion": "La fusoria se refiere a fundir metales."
+      },
+      {
+        "texto": "Plástica",
+        "correcto": true,
+        "justificacion": "Se describe la plástica como el arte de trabajar el barro o la cera."
+      },
+      {
+        "texto": "Scultura",
+        "correcto": false,
+        "justificacion": "La scultura se refiere a trabajar la piedra."
+      },
+      {
+        "texto": "Talla",
+        "correcto": false,
+        "justificacion": "La talla es el trabajo sobre materiales duros como la piedra o la madera."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Por qué pasaba Miguel Ángel mucho tiempo en las canteras de Carrara para la elección de los bloques?",
+    "respuesta": [
+      {
+        "texto": "Para negociar mejores precios directamente.",
+        "correcto": false,
+        "justificacion": "Aunque el coste puede ser un factor, la razón dada se centra en la calidad del material para su obra."
+      },
+      {
+        "texto": "Porque no definía la obra hasta que no elegía el bloque.",
+        "correcto": true,
+        "justificacion": "Miguel Ángel no definía su obra hasta que no había elegido el bloque de mármol adecuado."
+      },
+      {
+        "texto": "Para supervisar el trabajo de extracción de los canteros.",
+        "correcto": false,
+        "justificacion": "Su presencia se relaciona con la elección del material, no con la supervisión general de la cantera."
+      },
+      {
+        "texto": "Para inspirarse en la forma natural de las rocas.",
+        "correcto": false,
+        "justificacion": "La justificación proporcionada se refiere a la necesidad de elegir el bloque perfecto para la obra concebida."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta se vio obligado a usar Bernini para el retrato de Luis XIV debido a que el mármol francés era demasiado quebradizo?",
+    "respuesta": [
+      {
+        "texto": "El cincel plano",
+        "correcto": false,
+        "justificacion": "El cincel se usaba normalmente con mármol italiano, no francés quebradizo."
+      },
+      {
+        "texto": "La bujarda",
+        "correcto": false,
+        "justificacion": "La bujarda es una herramienta para dar textura rugosa, no la mencionada como necesaria por la fragilidad del material."
+      },
+      {
+        "texto": "El trépano",
+        "correcto": true,
+        "justificacion": "Bernini tuvo que usar el trépano para hacer incisiones en el mármol francés debido a su fragilidad."
+      },
+      {
+        "texto": "La escofina",
+        "correcto": false,
+        "justificacion": "La escofina es una herramienta para dar forma y alisar, no la mencionada como alternativa al cincel por la fragilidad."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramientas para escultura en piedra, de las mencionadas, ya eran conocidas por los egipcios?",
+    "respuesta": [
+      {
+        "texto": "Únicamente el puntero.",
+        "correcto": false,
+        "justificacion": "Los egipcios conocían más herramientas que solo el puntero."
+      },
+      {
+        "texto": "El cincel dentado y el trépano, pero no el puntero.",
+        "correcto": false,
+        "justificacion": "Los egipcios conocían el puntero, entre otras herramientas."
+      },
+      {
+        "texto": "Muchos de los instrumentos de escultor.",
+        "correcto": true,
+        "justificacion": "Se afirma que muchos de los instrumentos de escultor ya eran conocidos por los egipcios."
+      },
+      {
+        "texto": "Solo las herramientas de abrasión.",
+        "correcto": false,
+        "justificacion": "Aunque usaban abrasión, conocían otros tipos de herramientas como los cinceles."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Por qué se dice que la escultura egipcia 'estaba ceñida al bloque' y 'no tiene movimiento'?",
+    "respuesta": [
+      {
+        "texto": "Porque utilizaban mármoles muy duros que impedían formas fluidas.",
+        "correcto": false,
+        "justificacion": "La dureza del material era un factor, pero la explicación se centra en la técnica de talla."
+      },
+      {
+        "texto": "Debido a la falta de herramientas que permitieran el golpe oblicuo, solo golpeaban perpendicularmente.",
+        "correcto": true,
+        "justificacion": "Su escultura se caracterizaba por esa rigidez porque no tenían una herramienta que les permitiera hacer el golpe oblicuo, limitándose a golpear perpendicularmente."
+      },
+      {
+        "texto": "Para facilitar su transporte y colocación en templos.",
+        "correcto": false,
+        "justificacion": "La explicación se basa en la técnica de talla, no en consideraciones logísticas."
+      },
+      {
+        "texto": "Porque solo trabajaban con modelos de barro rígidos.",
+        "correcto": false,
+        "justificacion": "La explicación se atribuye a la técnica de talla en piedra, no a los modelos previos."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué indica la presencia de restos de policromía en estatuas griegas arcaicas como el Muchacho Rubio?",
+    "respuesta": [
+      {
+        "texto": "Que solo algunas estatuas griegas se pintaban parcialmente.",
+        "correcto": false,
+        "justificacion": "La conservación de policromía en algunas obras sugiere una práctica más extendida."
+      },
+      {
+        "texto": "Que todas las esculturas griegas probablemente fueron policromadas para mayor realismo.",
+        "correcto": true,
+        "justificacion": "Se indica que no hay razón para dudar que todas fueran policromadas, con el objetivo de conseguir mayor realismo."
+      },
+      {
+        "texto": "Que el mármol blanco fue siempre el acabado final deseado.",
+        "correcto": false,
+        "justificacion": "La imagen de la escultura griega blanca proviene de épocas posteriores, no de la antigüedad."
+      },
+      {
+        "texto": "Que los pigmentos utilizados eran excepcionalmente duraderos.",
+        "correcto": false,
+        "justificacion": "La conservación de restos de pigmentos no implica que todos los pigmentos fueran igual de duraderos, sino que se conservaron en ciertas condiciones."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué tratado medieval sobre artes menciona la fabricación y uso de cinceles, limas y escofinas, aunque sin referencias sobre la talla en piedra?",
+    "respuesta": [
+      {
+        "texto": "El Libro del Arte de Cennino Cennini.",
+        "correcto": false,
+        "justificacion": "Cennini es un tratado renacentista que sí habla de talla, pero el tratado medieval mencionado es otro."
+      },
+      {
+        "texto": "Sobre las distintas artes de Teófilo.",
+        "correcto": true,
+        "justificacion": "Este tratado medieval de Teófilo proporciona información sobre la fabricación de herramientas como cinceles, limas y escofinas, pero no detalla la talla en piedra."
+      },
+      {
+        "texto": "De statua de Alberti.",
+        "correcto": false,
+        "justificacion": "De statua es un tratado renacentista."
+      },
+      {
+        "texto": "Historia Natural de Plinio.",
+        "correcto": false,
+        "justificacion": "Plinio es un autor romano, no medieval."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es una característica distintiva de la escultura gótica, en contraste con la romana y griega, según el texto?",
+    "respuesta": [
+      {
+        "texto": "Se hacía exclusivamente en bronce.",
+        "correcto": false,
+        "justificacion": "La escultura gótica se realizaba en piedra, madera y otros materiales, no exclusivamente en bronce."
+      },
+      {
+        "texto": "Se tallaba sobre la misma fábrica de la iglesia.",
+        "correcto": true,
+        "justificacion": "A diferencia de las obras romanas y griegas hechas en un solo bloque, las figuras góticas a menudo se tallaban sobre la misma estructura del edificio."
+      },
+      {
+        "texto": "Se centraba en el retrato realista.",
+        "correcto": false,
+        "justificacion": "El retrato realista fue una característica romana, no gótica en general."
+      },
+      {
+        "texto": "Utilizaba modelos de barro de gran tamaño.",
+        "correcto": false,
+        "justificacion": "El uso de modelos de barro se menciona en relación con el proceso griego y renacentista."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué método para obtener la semejanza en escultura menciona Alberti en 'De statua'?",
+    "respuesta": [
+      {
+        "texto": "Imitación de modelos de cera.",
+        "correcto": false,
+        "justificacion": "Aunque se trabajaba en cera, Alberti se refiere a otros principios para la semejanza."
+      },
+      {
+        "texto": "Uso de herramientas de talla específicas.",
+        "correcto": false,
+        "justificacion": "Alberti se centra en los principios de la forma y la proporción."
+      },
+      {
+        "texto": "Dimensio (medida y proporción) y Finitio (movimiento, giro o torsión).",
+        "correcto": true,
+        "justificacion": "Alberti señala la dimensio y la finitio como necesarios para obtener la semejanza en escultura."
+      },
+      {
+        "texto": "Traslado mecánico de puntos del modelo.",
+        "correcto": false,
+        "justificacion": "Aunque la idea del traslado de puntos está relacionada, Alberti no la describe mecánicamente y su importancia se destaca en épocas posteriores."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué se menciona sobre el traslado mecánico del modelo al mármol antes del siglo XIX?",
+    "respuesta": [
+      {
+        "texto": "Era la técnica más común pero poco documentada.",
+        "correcto": false,
+        "justificacion": "No se presenta como la técnica más común antes del siglo XIX."
+      },
+      {
+        "texto": "No se veía bien, porque se consideraba reproducción mecánica.",
+        "correcto": true,
+        "justificacion": "Antes del siglo XIX, esta técnica no estaba bien vista porque se consideraba una reproducción mecánica."
+      },
+      {
+        "texto": "Solo lo usaban los ayudantes en los talleres.",
+        "correcto": false,
+        "justificacion": "La valoración de la técnica antes del siglo XIX se relaciona con la percepción de ser una reproducción, no con quién la ejecutaba."
+      },
+      {
+        "texto": "Leonardo se oponía firmemente a su uso.",
+        "correcto": false,
+        "justificacion": "Leonardo sí habla de un método de puntos, y el texto lo considera normal en su época."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué relación íntima tiene la pintura mural, según el texto?",
+    "respuesta": [
+      {
+        "texto": "Con la escultura en relieve.",
+        "correcto": false,
+        "justificacion": "La relación destacada es con otro arte."
+      },
+      {
+        "texto": "Con la arquitectura.",
+        "correcto": true,
+        "justificacion": "Se subraya la íntima relación y sinergia de la pintura mural con la arquitectura."
+      },
+      {
+        "texto": "Con la pintura de caballete.",
+        "correcto": false,
+        "justificacion": "La pintura mural se distingue de la de caballete, entre otros aspectos, por su relación con el soporte arquitectónico."
+      },
+      {
+        "texto": "Con los soportes textiles.",
+        "correcto": false,
+        "justificacion": "Los soportes textiles pueden usarse en murales, pero la relación fundamental es con el edificio."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué ocurre cuando se arranca un fragmento de pintura mural de su soporte original?",
+    "respuesta": [
+      {
+        "texto": "Se facilita su conservación a largo plazo.",
+        "correcto": false,
+        "justificacion": "Arrancar una pintura mural a menudo implica una pérdida importante."
+      },
+      {
+        "texto": "Se pone sobre otro soporte, perdiendo su característica principal y descontextualizándose.",
+        "correcto": true,
+        "justificacion": "Cuando se arranca, se coloca sobre otro soporte, lo que resulta en la pérdida de su característica principal y su descontextualización, perdiendo su significado original."
+      },
+      {
+        "texto": "La pintura se vuelve una obra autónoma de igual valor.",
+        "correcto": false,
+        "justificacion": "Se considera que arrancar la pintura de su contexto arquitectónico es una mutilación importante."
+      },
+      {
+        "texto": "Se activa un proceso de carbonatación que la estabiliza.",
+        "correcto": false,
+        "justificacion": "La carbonatación es un proceso de fijación asociado a ciertas técnicas murales en su soporte original."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de un mortero de revestimiento (enlucido) en la pintura mural?",
+    "respuesta": [
+      {
+        "texto": "Proporcionar el color base para la pintura.",
+        "correcto": false,
+        "justificacion": "El color base puede ser parte de las capas de preparación, no necesariamente la función principal del enlucido."
+      },
+      {
+        "texto": "Actuar como barniz protector.",
+        "correcto": false,
+        "justificacion": "Los barnices son capas finales protectoras."
+      },
+      {
+        "texto": "Servir de soporte a la pintura tras su fraguado.",
+        "correcto": true,
+        "justificacion": "Los enlucidos son materiales plásticos que, tras fraguar, forman una capa resistente capaz de servir de soporte a la pintura."
+      },
+      {
+        "texto": "Realizar los dibujos preparatorios.",
+        "correcto": false,
+        "justificacion": "Los dibujos preparatorios se realizan sobre las capas de preparación o enlucido, no son la función del mortero en sí."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué material se añade a algunos morteros como 'árido' o 'material de carga' para aportar cuerpo y estructura?",
+    "respuesta": [
+      {
+        "texto": "Aglomerante",
+        "correcto": false,
+        "justificacion": "El aglomerante es el material que cohesiona, no el que aporta cuerpo o estructura como árido."
+      },
+      {
+        "texto": "Aditivo",
+        "correcto": false,
+        "justificacion": "Los aditivos mejoran propiedades específicas, no necesariamente aportan cuerpo como carga principal."
+      },
+      {
+        "texto": "Agua",
+        "correcto": false,
+        "justificacion": "El agua da plasticidad para la aplicación, no aporta cuerpo o estructura como carga."
+      },
+      {
+        "texto": "Arena",
+        "correcto": true,
+        "justificacion": "Se describe el árido (tierra), generalmente arena de río, como material de carga que aporta cuerpo y estructura a algunos morteros."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes componentes del mortero se menciona como esencial para poder aplicarlo y cuya pérdida permite el fraguado?",
+    "respuesta": [
+      {
+        "texto": "Árido",
+        "correcto": false,
+        "justificacion": "El árido aporta cuerpo, no la plasticidad para la aplicación."
+      },
+      {
+        "texto": "Aglomerante",
+        "correcto": false,
+        "justificacion": "El aglomerante cohesiona, pero el material mencionado permite la aplicación plástica."
+      },
+      {
+        "texto": "Aditivo",
+        "correcto": false,
+        "justificacion": "Los aditivos mejoran propiedades, no son esenciales para la plasticidad y fraguado básico."
+      },
+      {
+        "texto": "Agua",
+        "correcto": true,
+        "justificacion": "El agua proporciona la plasticidad necesaria para aplicar el mortero, y su pérdida es lo que permite que fragüe."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cómo se fijan las pinturas prehistóricas o antiguas sobre roca, según el texto?",
+    "respuesta": [
+      {
+        "texto": "Mediante barnices naturales aplicados al final.",
+        "correcto": false,
+        "justificacion": "No se menciona el uso de barnices en este contexto."
+      },
+      {
+        "texto": "Por la solidificación de la sangre de animales.",
+        "correcto": false,
+        "justificacion": "Aunque la sangre pudo usarse como aglutinante, la fijación a largo plazo se debe a otro proceso."
+      },
+      {
+        "texto": "Por procesos de recarbonatación de las sales de la piedra a lo largo de miles de años.",
+        "correcto": true,
+        "justificacion": "Se explica que estas pinturas, incluso sin aglutinante identificado inicialmente, están fijadas por los procesos de carbonatación que han ocurrido en la roca durante miles de años."
+      },
+      {
+        "texto": "Gracias al calor del fuego, que vitrifica los pigmentos.",
+        "correcto": false,
+        "justificacion": "El fuego puede ayudar a la carbonatación del CO2, pero la fijación se describe como un proceso general de recarbonatación de las sales de la piedra."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el primer aglomerante utilizado en enlucidos, según el texto?",
+    "respuesta": [
+      {
+        "texto": "Yeso",
+        "correcto": false,
+        "justificacion": "El yeso también se usó desde la antigüedad, pero otro material fue anterior como aglomerante primario."
+      },
+      {
+        "texto": "Cal",
+        "correcto": false,
+        "justificacion": "La cal se usó en enlucidos posteriores a este primer aglomerante."
+      },
+      {
+        "texto": "Arcilla",
+        "correcto": true,
+        "justificacion": "La arcilla se menciona como el primer aglomerante, empleado desde la prehistoria."
+      },
+      {
+        "texto": "Cemento",
+        "correcto": false,
+        "justificacion": "El cemento es un aglomerante mucho más moderno."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Por qué los enlucidos a base de yeso son sensibles a la humedad?",
+    "respuesta": [
+      {
+        "texto": "Porque reaccionan con el CO2 atmosférico.",
+        "correcto": false,
+        "justificacion": "Esa reacción se relaciona con la cal, no con la sensibilidad del yeso a la humedad."
+      },
+      {
+        "texto": "Porque el yeso es higroscópico y absorbe humedad.",
+        "correcto": true,
+        "justificacion": "La sensibilidad a la humedad se debe a que el yeso es higroscópico, absorbiendo humedad a partir de cierto porcentaje, lo que reduce su resistencia mecánica."
+      },
+      {
+        "texto": "Porque no contienen árido.",
+        "correcto": false,
+        "justificacion": "No contener árido no es la razón de su sensibilidad a la humedad."
+      },
+      {
+        "texto": "Debido a su proceso de fraguado exotérmico.",
+        "correcto": false,
+        "justificacion": "La reacción exotérmica ocurre durante el fraguado, no explica la sensibilidad posterior a la humedad."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿A qué temperatura se consigue la deshidratación de la selenita (yeso natural) para dar lugar al yeso vivo, que permite el fraguado?",
+    "respuesta": [
+      {
+        "texto": "600 grados Celsius.",
+        "correcto": false,
+        "justificacion": "Esa temperatura es más cercana a la calcinación de carbonatos."
+      },
+      {
+        "texto": "Por debajo de 50 grados Celsius.",
+        "correcto": false,
+        "justificacion": "La deshidratación del yeso fraguado a baja humedad ocurre en este rango, pero para obtener yeso vivo se requiere una temperatura más alta."
+      },
+      {
+        "texto": "Entre 170 y 180 grados Celsius.",
+        "correcto": true,
+        "justificacion": "La calcinación seca (deshidratación) de la selenita para obtener yeso vivo se produce a esta temperatura."
+      },
+      {
+        "texto": "1800 grados Celsius.",
+        "correcto": false,
+        "justificacion": "Esa temperatura es mucho más alta de lo necesario para la calcinación del yeso."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la composición de la cal viva (CaO)?",
+    "respuesta": [
+      {
+        "texto": "Carbonato cálcico (CaCO3).",
+        "correcto": false,
+        "justificacion": "El carbonato cálcico es la materia prima, que se descompone en cal viva y CO2 por calcinación."
+      },
+      {
+        "texto": "Hidróxido de Calcio (CaOH2).",
+        "correcto": false,
+        "justificacion": "El hidróxido de calcio es la cal apagada, obtenida al añadir agua a la cal viva."
+      },
+      {
+        "texto": "Óxido cálcico (CaO).",
+        "correcto": true,
+        "justificacion": "El carbonato cálcico se descompone en óxido cálcico (cal viva) y CO2 tras la calcinación."
+      },
+      {
+        "texto": "Sulfato cálcico (So4Ca).",
+        "correcto": false,
+        "justificacion": "El sulfato cálcico es la base del yeso, no de la cal."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué ocurre cuando la cal apagada reacciona con el CO2 atmosférico?",
+    "respuesta": [
+      {
+        "texto": "Se vuelve insoluble en agua.",
+        "correcto": false,
+        "justificacion": "La cal apagada es soluble en agua; la reacción con CO2 produce un compuesto insoluble."
+      },
+      {
+        "texto": "Da lugar a óxido cálcico.",
+        "correcto": false,
+        "justificacion": "El óxido cálcico es la cal viva, precursora de la cal apagada."
+      },
+      {
+        "texto": "Se convierte en sulfato cálcico.",
+        "correcto": false,
+        "justificacion": "La formación de sulfato cálcico está relacionada con el yeso y el azufre."
+      },
+      {
+        "texto": "Da lugar a carbonato cálcico, creando una red 3D que cohesiona el enlucido.",
+        "correcto": true,
+        "justificacion": "La cal apagada reacciona con el CO2 para formar carbonato cálcico, que crea una red que engloba el árido y cohesiona el enlucido."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la principal característica que define la técnica de pintura al fresco?",
+    "respuesta": [
+      {
+        "texto": "Pintar sobre un muro de yeso seco.",
+        "correcto": false,
+        "justificacion": "El fresco se realiza sobre un mortero de cal, no de yeso, y mientras está húmedo."
+      },
+      {
+        "texto": "Pintar sobre un muro de cal húmedo.",
+        "correcto": true,
+        "justificacion": "La pintura al fresco consiste en pintar sobre un muro de cal mientras éste se encuentra húmedo."
+      },
+      {
+        "texto": "Mezclar pigmentos con aceites secativos.",
+        "correcto": false,
+        "justificacion": "Esa descripción se relaciona con la técnica del óleo."
+      },
+      {
+        "texto": "Utilizar un aglutinante a base de huevo.",
+        "correcto": false,
+        "justificacion": "Eso se relaciona con la técnica del temple, no específicamente con el fresco, que se caracteriza por la fijación por carbonatación."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cómo se produce la fijación de los pigmentos en la pintura al fresco?",
+    "respuesta": [
+      {
+        "texto": "Por la evaporación del agua del mortero.",
+        "correcto": false,
+        "justificacion": "La evaporación del agua es necesaria para el proceso, pero la fijación en sí se debe a una reacción química."
+      },
+      {
+        "texto": "Por la adhesión del aglutinante a la superficie.",
+        "correcto": false,
+        "justificacion": "En el fresco, la fijación principal no se debe a un aglutinante en el sentido tradicional, sino a la reacción química del soporte."
+      },
+      {
+        "texto": "Por carbonatación de la cal, formando una red cristalina de carbonato cálcico que captura los pigmentos.",
+        "correcto": true,
+        "justificacion": "La fijación del fresco se produce por la reacción de la cal con el CO2 atmosférico, creando carbonato cálcico que atrapa los pigmentos."
+      },
+      {
+        "texto": "Mediante el uso de barnices protectores aplicados al final.",
+        "correcto": false,
+        "justificacion": "Los barnices se aplican posteriormente y no son el mecanismo de fijación del fresco."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué se denomina 'jornadas' en la pintura al fresco?",
+    "respuesta": [
+      {
+        "texto": "Los dibujos preparatorios realizados sobre el muro.",
+        "correcto": false,
+        "justificacion": "Los dibujos preparatorios sobre el muro se llaman sinopias o se transfieren mediante otros métodos."
+      },
+      {
+        "texto": "Las uniones horizontales del mortero a nivel de andamio.",
+        "correcto": false,
+        "justificacion": "Esas uniones se denominan pontatas."
+      },
+      {
+        "texto": "La superficie de mortero que se aplica cada día para pintar.",
+        "correcto": true,
+        "justificacion": "Las 'jornadas' son las porciones de mortero que se extienden en el muro cada día, correspondientes a la superficie que se va a pintar en esa jornada."
+      },
+      {
+        "texto": "Los retoques 'al secco' realizados tras el fraguado.",
+        "correcto": false,
+        "justificacion": "Los retoques 'al secco' son una técnica posterior, no las divisiones diarias del mortero."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Por qué la pintura mural romana a menudo no presenta jornadas visibles a pesar de sus grandes dimensiones?",
+    "respuesta": [
+      {
+        "texto": "Porque pintaban muy rápido.",
+        "correcto": false,
+        "justificacion": "La razón se relaciona con la preparación del muro y el secado del mortero, no solo con la velocidad de ejecución."
+      },
+      {
+        "texto": "Porque utilizaban pigmentos que se fijaban instantáneamente.",
+        "correcto": false,
+        "justificacion": "La fijación en el fresco romano es un proceso de carbonatación."
+      },
+      {
+        "texto": "Porque debían tener algún método para conservar más tiempo el muro húmedo, como el pulido de la superficie o el uso de áridos porosos.",
+        "correcto": true,
+        "justificacion": "Se sugiere que los romanos empleaban métodos como el pulido de la superficie (expolitiones) o la adición de áridos porosos como la puzolana para mantener el mortero húmedo por más tiempo, permitiendo pintar superficies mayores sin que se notaran las jornadas."
+      },
+      {
+        "texto": "Utilizaban una técnica completamente diferente al fresco.",
+        "correcto": false,
+        "justificacion": "Se habla de la técnica mural romana, que incluye el fresco, pero con particularidades."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué pigmento azul se menciona que utilizaron los griegos?",
+    "respuesta": [
+      {
+        "texto": "Azul de Prusia",
+        "correcto": false,
+        "justificacion": "El azul de Prusia es un pigmento industrial del siglo XIX."
+      },
+      {
+        "texto": "Azul ultramar natural",
+        "correcto": false,
+        "justificacion": "El azul ultramar natural se empezó a usar ampliamente al final de la Edad Media."
+      },
+      {
+        "texto": "Azurita",
+        "correcto": false,
+        "justificacion": "La azurita es un pigmento natural antiguo, pero no es el mencionado específicamente para los griegos."
+      },
+      {
+        "texto": "Azul egipcio",
+        "correcto": true,
+        "justificacion": "Se menciona que los griegos utilizaban el 'azul egipcio'."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Por qué no todos los pigmentos se pueden usar sobre un mortero de cal en la técnica al fresco?",
+    "respuesta": [
+      {
+        "texto": "Porque la cal es un medio ácido que altera algunos pigmentos.",
+        "correcto": false,
+        "justificacion": "La cal es un medio básico, no ácido."
+      },
+      {
+        "texto": "Porque la basicidad de la cal 'craquela' y hace que algunos pigmentos se caigan.",
+        "correcto": true,
+        "justificacion": "La basicidad de la cal hace que algunos pigmentos, como el verdigris, se alteren ('craquelen') y se desprendan."
+      },
+      {
+        "texto": "Porque la carbonatación impide la fijación de ciertos pigmentos.",
+        "correcto": false,
+        "justificacion": "La carbonatación es el proceso que fija los pigmentos estables en el fresco."
+      },
+      {
+        "texto": "Debido a que el mortero está húmedo.",
+        "correcto": false,
+        "justificacion": "La humedad es necesaria para la técnica, pero la incompatibilidad de algunos pigmentos se debe a la naturaleza química de la cal."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué técnica de reintegración cromática consiste en la yuxtaposición de diferentes puntos de colores?",
+    "respuesta": [
+      {
+        "texto": "Rigatino",
+        "correcto": false,
+        "justificacion": "El rigatino utiliza trazos verticales."
+      },
+      {
+        "texto": "Tratteggio",
+        "correcto": false,
+        "justificacion": "El tratteggio utiliza líneas cruzadas o siguiendo la pincelada."
+      },
+      {
+        "texto": "Puntillismo (puntinatto)",
+        "correcto": true,
+        "justificacion": "El puntillismo o puntinatto se describe como la yuxtaposición de diferentes puntos de colores."
+      },
+      {
+        "texto": "Tinta plana",
+        "correcto": false,
+        "justificacion": "La tinta plana es una técnica para rellenar lagunas con un color uniforme."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué material se identificó en el reverso del 'zafate' de la armadura del palacio de Comares (Museo de la Alhambra) mediante análisis?",
+    "respuesta": [
+      {
+        "texto": "Yeso con arcilla.",
+        "correcto": false,
+        "justificacion": "No se menciona esa composición específica para el reverso."
+      },
+      {
+        "texto": "Mortero de cal y arena.",
+        "correcto": false,
+        "justificacion": "No se menciona esa composición específica para el reverso."
+      },
+      {
+        "texto": "Un texto en árabe.",
+        "correcto": true,
+        "justificacion": "Se menciona que en el reverso del zafate aparece un texto en árabe."
+      },
+      {
+        "texto": "Restos de policromía original.",
+        "correcto": false,
+        "justificacion": "Aunque es una obra policromada, lo que se identifica específicamente en el reverso es el texto."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de una pátina en la piedra, según el texto?",
+    "respuesta": [
+      {
+        "texto": "Aportar coloraciones artificiales para mejorar la estética.",
+        "correcto": false,
+        "justificacion": "La pátina es una formación natural, no artificial."
+      },
+      {
+        "texto": "Permitir el crecimiento de vegetación en la superficie.",
+        "correcto": false,
+        "justificacion": "La pátina es una capa mineral, no un sustrato para vegetación."
+      },
+      {
+        "texto": "Formar una película que sirve de protección al material subyacente.",
+        "correcto": true,
+        "justificacion": "La pátina se describe como una película o costra que se forma y sirve de protección a la piedra."
+      },
+      {
+        "texto": "Incrementar la porosidad del material.",
+        "correcto": false,
+        "justificacion": "La pátina es un estrato más resistente y menos poroso."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué pigmento blanco se menciona que se vuelve transparente en técnicas oleorresinosas?",
+    "respuesta": [
+      {
+        "texto": "Blanco de plomo.",
+        "correcto": false,
+        "justificacion": "El blanco de plomo es cubriente."
+      },
+      {
+        "texto": "Blanco de zinc.",
+        "correcto": false,
+        "justificacion": "El blanco de zinc es un pigmento industrial, no el mencionado con esa característica en técnicas oleorresinosas."
+      },
+      {
+        "texto": "Carbonato cálcico (creta, blanco de España).",
+        "correcto": true,
+        "justificacion": "Se menciona que el carbonato cálcico (creta, blanco de España) se vuelve transparente en técnicas oleorresinosas."
+      },
+      {
+        "texto": "Blanco de titanio.",
+        "correcto": false,
+        "justificacion": "El blanco de titanio es un pigmento industrial."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la composición básica del blanco de plomo (cerusa, albayalde)?",
+    "respuesta": [
+      {
+        "texto": "Óxido de plomo.",
+        "correcto": false,
+        "justificacion": "El óxido de plomo es el minio, no el blanco de plomo."
+      },
+      {
+        "texto": "Sulfuro de plomo.",
+        "correcto": false,
+        "justificacion": "El sulfuro de plomo no es el blanco de plomo."
+      },
+      {
+        "texto": "Carbonato básico de plomo.",
+        "correcto": true,
+        "justificacion": "El blanco de plomo (cerusa, albayalde) se describe como carbonato básico de plomo."
+      },
+      {
+        "texto": "Sulfato de plomo.",
+        "correcto": false,
+        "justificacion": "El sulfato de plomo no es el blanco de plomo."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué pigmento rojo se menciona que desaparece al final de la Edad Media y se sustituye por el amarillo de plomo y estaño, siendo muy tóxico y descrito por Plinio como 'minium'?",
+    "respuesta": [
+      {
+        "texto": "Tierra roja (almagra).",
+        "correcto": false,
+        "justificacion": "Las tierras rojas son muy estables y no desaparecen de uso en esa época."
+      },
+      {
+        "texto": "Rojo de plomo (minio).",
+        "correcto": false,
+        "justificacion": "El minio también es un óxido de plomo, pero el pigmento descrito por Plinio como 'minium' y que desaparece es otro."
+      },
+      {
+        "texto": "Cinabrio/Bermellón.",
+        "correcto": true,
+        "justificacion": "Se menciona el Cinabrio/Bermellón como el pigmento descrito por Plinio como 'minium', muy tóxico, que se deja de usar ampliamente en el siglo XIX, aunque se menciona su uso medieval y en el mundo musulmán."
+      },
+      {
+        "texto": "Laca de cochinilla.",
+        "correcto": false,
+        "justificacion": "Las lacas rojas son diferentes y no se describen de la misma manera en cuanto a toxicidad y sustitución en esa época."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre el azul de azurita (natural) y el azul de azurita sintética, según el texto?",
+    "respuesta": [
+      {
+        "texto": "El azul natural es más estable a la humedad que el sintético.",
+        "correcto": true,
+        "justificacion": "El azul de azurita sintética se menciona como muy inestable y permeable a la humedad, a diferencia del natural."
+      },
+      {
+        "texto": "El azul sintético tiene un matiz verdoso, el natural no.",
+        "correcto": false,
+        "justificacion": "El matiz verdoso en el azul natural se debe a la mezcla con malaquita."
+      },
+      {
+        "texto": "El azul natural tiene granos homogéneos, el sintético no.",
+        "correcto": false,
+        "justificacion": "Los granos del sintético son homogéneos, los del natural son irregulares."
+      },
+      {
+        "texto": "El azul sintético es más caro que el natural.",
+        "correcto": false,
+        "justificacion": "El precio no se compara directamente, pero se describe el azul natural como más abundante y el ultramar natural como muy caro, lo que sugiere que las alternativas sintéticas buscan reducir costes."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué aglutinante hidrófilo, de origen vegetal, se menciona que se ha empleado mucho en la iluminación de manuscritos y como aglutinante del pastel?",
+    "respuesta": [
+      {
+        "texto": "Goma arábiga.",
+        "correcto": false,
+        "justificacion": "Aunque la goma arábiga es un aglutinante hidrófilo usado en tintas e iluminación, el texto menciona otro específicamente para el pastel y en poca cantidad en iluminación."
+      },
+      {
+        "texto": "Gelatina.",
+        "correcto": false,
+        "justificacion": "La gelatina es una proteína, no un mucílago vegetal, y se usa en preparaciones, no específicamente para pastel o iluminación con poca cantidad."
+      },
+      {
+        "texto": "Tragacanto.",
+        "correcto": true,
+        "justificacion": "El tragacanto se menciona como muy viscoso, usado en iluminación en poca cantidad y como aglutinante del pastel."
+      },
+      {
+        "texto": "Almidón.",
+        "correcto": false,
+        "justificacion": "El almidón es un mucílago vegetal, pero el texto destaca su falta de elasticidad y no lo asocia directamente con el pastel o el uso en poca cantidad en iluminación como el tragacanto."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la principal ventaja de usar la yema de huevo como aglutinante, a diferencia de la clara sola o temples magros?",
+    "respuesta": [
+      {
+        "texto": "Seca instantáneamente al contacto con el aire.",
+        "correcto": false,
+        "justificacion": "Los estratos con yema tardan mucho en secar."
+      },
+      {
+        "texto": "Produce estratos completamente transparentes.",
+        "correcto": false,
+        "justificacion": "La transparencia no es la cualidad principal destacada de la yema como aglutinante."
+      },
+      {
+        "texto": "Permite hacer transiciones tonales mucho más sutiles.",
+        "correcto": false,
+        "justificacion": "Aunque las emulsiones con yema facilitan esto más que los temples magros puros, la ventaja principal mencionada se relaciona con la estabilidad de la emulsión."
+      },
+      {
+        "texto": "Es una emulsión estable que permite generar un material estable y con estratos que tardan mucho en secar.",
+        "correcto": true,
+        "justificacion": "La yema, al ser una emulsión con lecitina, es muy estable y permite crear materiales y estratos que se secan lentamente pero de forma estable."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué aglutinante hidrófobo se menciona como el más habitual y que Vasari atribuye a Van Eyck, aunque su uso es anterior?",
+    "respuesta": [
+      {
+        "texto": "Resinas terpénicas.",
+        "correcto": false,
+        "justificacion": "Las resinas terpénicas son hidrófobas pero no son el aglutinante más habitual asociado a Van Eyck."
+      },
+      {
+        "texto": "Ceras.",
+        "correcto": false,
+        "justificacion": "Las ceras son hidrófobas pero no son el aglutinante más popular en los periodos mencionados."
+      },
+      {
+        "texto": "Aceites secativos.",
+        "correcto": true,
+        "justificacion": "Los aceites secativos se mencionan como el grupo de aglutinantes más popular y su desarrollo es asociado, aunque erróneamente en exclusividad, a Van Eyck por Vasari."
+      },
+      {
+        "texto": "Almáciga.",
+        "correcto": false,
+        "justificacion": "La almáciga es una resina, no un tipo de aceite secativo."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué resina blanda se menciona como la más empleada históricamente, que amarillea con el tiempo pero no en exceso, y da superficies flexibles y brillantes, siendo buena para aglutinantes en pintura de caballete?",
+    "respuesta": [
+      {
+        "texto": "Sandáraca.",
+        "correcto": false,
+        "justificacion": "La sandáraca es una resina dura."
+      },
+      {
+        "texto": "Copal.",
+        "correcto": false,
+        "justificacion": "El copal es una resina dura o fósil."
+      },
+      {
+        "texto": "Almáciga o mastic.",
+        "correcto": true,
+        "justificacion": "La almáciga o mastic se describe con esas características: resina blanda, amarillea moderadamente, flexible, brillante y muy usada en caballete."
+      },
+      {
+        "texto": "Colofonia.",
+        "correcto": false,
+        "justificacion": "La colofonia es muy rígida y ácida, no se considera buena para aglutinantes."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué material de carga se menciona como tradicionalmente empleado en preparaciones, incoloro o de color poco definido, y que en técnicas oleorresinosas se vuelve transparente?",
+    "respuesta": [
+      {
+        "texto": "Yeso mate (hidratado).",
+        "correcto": false,
+        "justificacion": "El yeso mate se usó, pero no se menciona que se vuelva transparente en técnicas oleorresinosas, característica atribuida a otro material."
+      },
+      {
+        "texto": "Tierras.",
+        "correcto": false,
+        "justificacion": "Las tierras tienen color definido y pueden dar problemas de higroscopicidad en capas gruesas."
+      },
+      {
+        "texto": "Carbonato cálcico (creta, blanco de España).",
+        "correcto": true,
+        "justificacion": "La creta o carbonato cálcico se menciona como una carga tradicional que se vuelve transparente en técnicas oleorresinosas."
+      },
+      {
+        "texto": "Caolín.",
+        "correcto": false,
+        "justificacion": "El caolín es una arcilla blanca, pero la transparencia al óleo es una característica asociada a otro material de carga."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué material utilizó Pacheco en la imprimación de sus preparaciones, según su tratado, que Velázquez modificó posteriormente?",
+    "respuesta": [
+      {
+        "texto": "Creta y cola de conejo.",
+        "correcto": false,
+        "justificacion": "Esa es la preparación base de Cennino Cennini, no la imprimación de Pacheco."
+      },
+      {
+        "texto": "Légamo de río, óxido de hierro, carbonato cálcico y negro de carbón, aglutinados con aceite de linaza.",
+        "correcto": true,
+        "justificacion": "La imprimación de Pacheco se describe como una mezcla de estos componentes, aglutinados con aceite de linaza."
+      },
+      {
+        "texto": "Blanco de plomo y aceite secante.",
+        "correcto": false,
+        "justificacion": "Esa fue la imprimación utilizada por Miguel Ángel en el Tondo Doni, no la de Pacheco."
+      },
+      {
+        "texto": "Tierra verde (verdaccio).",
+        "correcto": false,
+        "justificacion": "El verdaccio es una técnica base utilizada por Rubens."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué diferencia fundamental existe entre las armaduras y los artesonados mudéjares?",
+    "respuesta": [
+      {
+        "texto": "Las armaduras son decorativas y los artesonados son estructurales.",
+        "correcto": false,
+        "justificacion": "En las armaduras mudéjares, los elementos decorativos son también estructurales, a diferencia de los artesonados."
+      },
+      {
+        "texto": "Las armaduras son cubiertas inclinadas y los artesonados son techos planos.",
+        "correcto": true,
+        "justificacion": "Las armaduras son estructuras inclinadas que forman parte del tejado, mientras que los artesonados son techos planos o forjados de madera."
+      },
+      {
+        "texto": "Los artesonados son de madera pintada, las armaduras no.",
+        "correcto": false,
+        "justificacion": "Ambos pueden estar pintados, y la pintura en las armaduras tiene una función protectora además de estética."
+      },
+      {
+        "texto": "Las armaduras se hacen con piezas encoladas, los artesonados se engranan.",
+        "correcto": false,
+        "justificacion": "En las armaduras, los elementos a menudo se engranan sin clavos, y la técnica de encolado se usa en otras aplicaciones de madera."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué función principal se atribuye a la pintura en las armaduras mudéjares?",
+    "respuesta": [
+      {
+        "texto": "Resaltar la belleza de la madera natural.",
+        "correcto": false,
+        "justificacion": "Aunque la pintura es estética, se le atribuye una función más básica y necesaria."
+      },
+      {
+        "texto": "Representar escenas religiosas.",
+        "correcto": false,
+        "justificacion": "La decoración pictórica mudéjar es principalmente geométrica y vegetal, no figurativa en general."
+      },
+      {
+        "texto": "Proteger la madera de insectos xilófagos como las termitas.",
+        "correcto": true,
+        "justificacion": "Se menciona explícitamente que las armaduras mudéjares se pintaban para evitar que fueran atacadas por las termitas, indicando que la función condiciona la estética."
+      },
+      {
+        "texto": "Unificar visualmente los diferentes tipos de madera.",
+        "correcto": false,
+        "justificacion": "La pintura tiene una función protectora destacada en este contexto."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué se denomina 'apeinazado' en las armaduras mudéjares?",
+    "respuesta": [
+      {
+        "texto": "El remate que cierra las juntas de las tablas.",
+        "correcto": false,
+        "justificacion": "El remate que cierra las juntas de las tablas se llama alfardón."
+      },
+      {
+        "texto": "La superficie plana que une todos los nudillos.",
+        "correcto": false,
+        "justificacion": "La superficie plana que une los nudillos se llama almizate."
+      },
+      {
+        "texto": "Las maderas engranadas unas con otras sin usar clavos.",
+        "correcto": true,
+        "justificacion": "El apeinazado se describe como la técnica de engranar maderas sin usar clavos."
+      },
+      {
+        "texto": "Las vigas diagonales que refuerzan las esquinas.",
+        "correcto": false,
+        "justificacion": "Las vigas diagonales que refuerzan las esquinas se llaman cuadrales."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué característica de la armadura de par y nudillo la hace más estable que la simple armadura de par e hilera?",
+    "respuesta": [
+      {
+        "texto": "El uso de maderas más gruesas.",
+        "correcto": false,
+        "justificacion": "La estabilidad se logra mediante la disposición de elementos específicos, no solo por el grosor general."
+      },
+      {
+        "texto": "La incorporación de un nudillo y tirantes que evitan que las paredes se abran y la estructura 'reme'.",
+        "correcto": true,
+        "justificacion": "La adición del nudillo y los tirantes en la armadura de par y nudillo previene el movimiento y la apertura de la estructura, a diferencia de la de par e hilera."
+      },
+      {
+        "texto": "Su decoración pictórica.",
+        "correcto": false,
+        "justificacion": "La pintura tiene una función protectora y estética, no estructural para evitar el 'remado'."
+      },
+      {
+        "texto": "La utilización exclusiva de madera de pino de Baza.",
+        "correcto": false,
+        "justificacion": "La estabilidad se debe al diseño de la armadura, no al tipo de madera en sí."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia fundamental entre la lima bordón y la lima moamar en las armaduras mudéjares?",
+    "respuesta": [
+      {
+        "texto": "La lima bordón tiene dos maderas en la esquina, la moamar una.",
+        "correcto": false,
+        "justificacion": "La lima moamar tiene dos maderas con una calle en medio, la bordón una sola viga en la esquina."
+      },
+      {
+        "texto": "La lima bordón se construye en el suelo, la moamar arriba.",
+        "correcto": false,
+        "justificacion": "La lima moamar se monta en el suelo y se sube, la bordón se construye arriba."
+      },
+      {
+        "texto": "La lima moamar es más antigua que la lima bordón.",
+        "correcto": false,
+        "justificacion": "La lima bordón se considera más antigua que la moamar."
+      },
+      {
+        "texto": "La lima moamar tiene dos maderas con una calle en medio en la esquina, la bordón tiene una sola viga en la esquina.",
+        "correcto": true,
+        "justificacion": "La diferencia principal radica en la configuración de las esquinas: la moamar presenta dos maderas separadas en la esquina, mientras que la bordón tiene una única viga."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué se denomina 'agramilado' en la carpintería mudéjar y para qué parece servir?",
+    "respuesta": [
+      {
+        "texto": "La técnica de pintura sobre la madera para protegerla.",
+        "correcto": false,
+        "justificacion": "La pintura es diferente del agramilado, aunque ambas pueden tener función protectora."
+      },
+      {
+        "texto": "Las estrellas de ocho puntas usadas como decoración.",
+        "correcto": false,
+        "justificacion": "Las estrellas son un elemento decorativo, no el agramilado."
+      },
+      {
+        "texto": "Las hendiduras o gramiles que se ponen en la superficie de la madera, que parecen ayudar en la dilatación.",
+        "correcto": true,
+        "justificacion": "El agramilado son las hendiduras que se hacen en la madera, y se menciona que parecen ayudar a la madera a resistir los cambios de dilatación."
+      },
+      {
+        "texto": "El entramado sin clavos utilizado en las armaduras.",
+        "correcto": false,
+        "justificacion": "El entramado sin clavos se denomina apeinazado."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué elemento vuela de la pared para reducir la 'luz' o anchura del espacio a cubrir y reforzar la estructura, como los modillones?",
+    "respuesta": [
+      {
+        "texto": "Tirante.",
+        "correcto": false,
+        "justificacion": "El tirante es una viga que trabaja a tensión, no un elemento que vuela de la pared para reducir la luz."
+      },
+      {
+        "texto": "Nudillo.",
+        "correcto": false,
+        "justificacion": "El nudillo es una viga que trabaja a compresión en las armaduras de cubierta."
+      },
+      {
+        "texto": "Zapata.",
+        "correcto": true,
+        "justificacion": "La zapata se describe como un elemento que vuela de la pared para reducir la luz y dar soporte, similar a los modillones."
+      },
+      {
+        "texto": "Alfardón.",
+        "correcto": false,
+        "justificacion": "El alfardón es un elemento que cierra las juntas en los techos de madera."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué se denomina 'almagra'?",
+    "respuesta": [
+      {
+        "texto": "Un tipo de arcilla blanca para preparaciones.",
+        "correcto": false,
+        "justificacion": "La almagra es un pigmento rojo, no una arcilla blanca para preparaciones."
+      },
+      {
+        "texto": "Una laca roja de origen animal.",
+        "correcto": false,
+        "justificacion": "Las lacas rojas son colorantes orgánicos; la almagra es una tierra roja."
+      },
+      {
+        "texto": "Una tierra roja rica en óxido de hierro.",
+        "correcto": true,
+        "justificacion": "La almagra se describe como una tierra roja o hematites, rica en óxido de hierro."
+      },
+      {
+        "texto": "Un pigmento rojo de plomo.",
+        "correcto": false,
+        "justificacion": "Los pigmentos rojos de plomo son el cinabrio/bermellón o el minio."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué material, muy abundante en la naturaleza y conocido desde la prehistoria, se describe como una mezcla de limonita y goethita (óxidos de hierro amarillos)?",
+    "respuesta": [
+      {
+        "texto": "Oropimente",
+        "correcto": false,
+        "justificacion": "El oropimente es un sulfuro de arsénico, no una mezcla de óxidos de hierro."
+      },
+      {
+        "texto": "Amarillo de plomo y estaño",
+        "correcto": false,
+        "justificacion": "El amarillo de plomo y estaño es un pigmento artificial o natural, no una mezcla de limonita y goethita."
+      },
+      {
+        "texto": "Ocre amarillo",
+        "correcto": true,
+        "justificacion": "El ocre amarillo se describe como una mezcla de limonita y goethita (óxidos de hierro amarillos)."
+      },
+      {
+        "texto": "Litargirio",
+        "correcto": false,
+        "justificacion": "El litargirio es monóxido de plomo."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué se denomina 'sinopia' en la pintura mural?",
+    "respuesta": [
+      {
+        "texto": "La técnica de transferencia del cartón al muro mediante punzonado.",
+        "correcto": false,
+        "justificacion": "El punzonado es un método de transferencia, no la sinopia en sí."
+      },
+      {
+        "texto": "El dibujo preliminar a escala real, hecho a pincel y monocromo sobre el penúltimo mortero.",
+        "correcto": true,
+        "justificacion": "La sinopia se define como el dibujo preliminar a escala real, generalmente monocromo y realizado a pincel sobre la capa de mortero previa a la jornada final."
+      },
+      {
+        "texto": "Los bocetos a menor escala realizados antes del cartón.",
+        "correcto": false,
+        "justificacion": "Los bocetos son estudios previos, no la sinopia."
+      },
+      {
+        "texto": "Las líneas de unión entre las diferentes 'jornadas' de pintura al fresco.",
+        "correcto": false,
+        "justificacion": "Las líneas de unión entre jornadas son las 'giornate' o pontatas (si son horizontales)."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué material se utilizaba para la pátina en la piedra, según el texto?",
+    "respuesta": [
+      {
+        "texto": "Barnices de resina.",
+        "correcto": false,
+        "justificacion": "Los barnices se aplican en pintura, no son la pátina de la piedra."
+      },
+      {
+        "texto": "Mezclas de arcilla y yeso.",
+        "correcto": false,
+        "justificacion": "Esas mezclas se usaban en morteros egipcios, no para la pátina de la piedra."
+      },
+      {
+        "texto": "Una película de espesor milimétrico formada por el traslado de la humedad natural a la superficie, fijando materiales como óxidos de hierro.",
+        "correcto": true,
+        "justificacion": "La pátina en la piedra se describe como una película o costra que se forma en la superficie por el afloramiento y carbonatación de sales, a menudo fijando óxidos de hierro y volviéndose más resistente y oscura."
+      },
+      {
+        "texto": "Una capa de cera caliente aplicada para proteger la superficie.",
+        "correcto": false,
+        "justificacion": "La capa de cera se menciona en relación con la pintura mural romana, no con la pátina natural de la piedra."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de roca se describe como magmática, formada por un enfriamiento muy lento del magma, compuesta por cuarzo, feldespato y mica, muy resistente a la intemperie y poco porosa?",
+    "respuesta": [
+      {
+        "texto": "Arenisca",
+        "correcto": false,
+        "justificacion": "La arenisca es una roca sedimentaria."
+      },
+      {
+        "texto": "Caliza",
+        "correcto": false,
+        "justificacion": "La caliza es una roca sedimentaria."
+      },
+      {
+        "texto": "Mármol",
+        "correcto": false,
+        "justificacion": "El mármol es una roca metamórfica."
+      },
+      {
+        "texto": "Granito",
+        "correcto": true,
+        "justificacion": "El granito se describe con todas esas características: roca magmática de enfriamiento lento, compuesta por cuarzo, feldespato y mica, resistente y poco porosa."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué diferencia el mármol de otras rocas sedimentarias como la caliza, a pesar de estar compuesto principalmente por carbonato cálcico?",
+    "respuesta": [
+      {
+        "texto": "Su origen volcánico.",
+        "correcto": false,
+        "justificacion": "El mármol tiene origen sedimentario que sufre un proceso de transformación."
+      },
+      {
+        "texto": "Su mayor porosidad.",
+        "correcto": false,
+        "justificacion": "El mármol es menos poroso que otras rocas sedimentarias."
+      },
+      {
+        "texto": "El proceso de recristalización que sufre al ser una roca metamórfica.",
+        "correcto": true,
+        "justificacion": "El mármol, a pesar de su origen sedimentario y composición, es una roca metamórfica que ha sufrido un proceso de recristalización."
+      },
+      {
+        "texto": "Contiene sílice en grandes cantidades.",
+        "correcto": false,
+        "justificacion": "El mármol está compuesto principalmente por carbonato cálcico, no sílice."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la principal característica de las rocas con 'texturas cementadas', como las areniscas y calizas, en contraste con las 'texturas cristalinas'?",
+    "respuesta": [
+      {
+        "texto": "Son más resistentes a la alteración.",
+        "correcto": false,
+        "justificacion": "Las rocas con textura cristalina son generalmente menos alterables."
+      },
+      {
+        "texto": "Son masivas y compactas.",
+        "correcto": false,
+        "justificacion": "Esa es una característica de las rocas cristalinas, no de las cementadas."
+      },
+      {
+        "texto": "No se pueden pulir bien.",
+        "correcto": true,
+        "justificacion": "Se menciona que las rocas con textura cementada (detrítica) no se pueden pulir bien debido a la matriz o cemento entre los granos."
+      },
+      {
+        "texto": "Tienen espacios vacíos planares.",
+        "correcto": false,
+        "justificacion": "Los espacios vacíos planares caracterizan a los medios fisurados de rocas cristalinas."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes maderas se menciona como muy buena para tallar pero muy poco duradera frente a los xilófagos?",
+    "respuesta": [
+      {
+        "texto": "Roble.",
+        "correcto": false,
+        "justificacion": "El roble es duradero."
+      },
+      {
+        "texto": "Tilo.",
+        "correcto": true,
+        "justificacion": "Se menciona que el Tilo es muy bueno para tallar pero muy poco duradero frente a los xilófagos."
+      },
+      {
+        "texto": "Pino.",
+        "correcto": false,
+        "justificacion": "El pino es una madera duradera en general."
+      },
+      {
+        "texto": "Cedro.",
+        "correcto": false,
+        "justificacion": "El cedro es una madera muy duradera."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Por qué se dice que 'jamás' se debe lijar una madera envejecida?",
+    "respuesta": [
+      {
+        "texto": "Porque se vuelve más oscura al lijar.",
+        "correcto": false,
+        "justificacion": "El oscurecimiento superficial es una característica de la pátina, que se eliminaría al lijar."
+      },
+      {
+        "texto": "Porque se activan las reacciones químicas internas.",
+        "correcto": false,
+        "justificacion": "El lijado afecta la superficie, no las reacciones químicas internas profundas."
+      },
+      {
+        "texto": "Porque se elimina la pátina, una capa menos reactiva que estabiliza la madera.",
+        "correcto": true,
+        "justificacion": "Lijar una madera envejecida elimina la pátina, que es una capa superficial menos reactiva y estabilizada que protege el material."
+      },
+      {
+        "texto": "Porque se vuelve más porosa y absorbe más humedad.",
+        "correcto": false,
+        "justificacion": "La pátina es menos porosa; eliminarla expondría capas más porosas, pero la razón fundamental es la pérdida de estabilidad superficial."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de tejido vegetal se menciona que no es adecuado para soporte de pintura debido a su alta higroscopicidad (absorbe el 40% de su peso)?",
+    "respuesta": [
+      {
+        "texto": "Seda.",
+        "correcto": false,
+        "justificacion": "La seda absorbe humedad, pero en menor porcentaje (30%) que el material descrito."
+      },
+      {
+        "texto": "Lino.",
+        "correcto": false,
+        "justificacion": "El lino se describe como un material muy adecuado para soporte de pintura debido a su estabilidad dimensional."
+      },
+      {
+        "texto": "Algodón.",
+        "correcto": false,
+        "justificacion": "El algodón es higroscópico (21%), pero el material descrito absorbe un porcentaje mucho mayor."
+      },
+      {
+        "texto": "Lana.",
+        "correcto": true,
+        "justificacion": "La lana se describe como fuertemente higroscópica, absorbiendo el 40% de su peso, y por ello no adecuada como soporte de pintura."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué fibra vegetal se menciona que no se utilizó frecuentemente como soporte de pintura hasta el siglo XIX debido a su alta higroscopicidad y reacciones violentas frente a la humedad?",
+    "respuesta": [
+      {
+        "texto": "Lino.",
+        "correcto": false,
+        "justificacion": "El lino fue un soporte común mucho antes del siglo XIX."
+      },
+      {
+        "texto": "Cáñamo.",
+        "correcto": false,
+        "justificacion": "El cáñamo fue conocido y utilizado en Europa desde la antigüedad."
+      },
+      {
+        "texto": "Yute.",
+        "correcto": false,
+        "justificacion": "El yute se usaba principalmente para cuerdas y sacos, y en vanguardias artísticas."
+      },
+      {
+        "texto": "Algodón.",
+        "correcto": true,
+        "justificacion": "El algodón se menciona que no se usa frecuentemente como soporte de pintura hasta el siglo XIX debido a sus reacciones violentas frente a la humedad."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes ligamentos textiles se menciona que utilizaban los venecianos y tenía un precio elevado, por lo que solo lo usaban artistas de prestigio?",
+    "respuesta": [
+      {
+        "texto": "Tafetán.",
+        "correcto": false,
+        "justificacion": "El tafetán es el ligamento más sencillo, no el de alto precio asociado a los venecianos."
+      },
+      {
+        "texto": "Sargas.",
+        "correcto": false,
+        "justificacion": "Las sargas son un tipo de ligamento, pero no es el mencionado con las características dadas."
+      },
+      {
+        "texto": "Mantelillo veneciano.",
+        "correcto": true,
+        "justificacion": "El mantelillo veneciano se menciona como un ligamento complejo utilizado por artistas de prestigio debido a su precio elevado y asociado a la pintura veneciana."
+      },
+      {
+        "texto": "Espiguilla.",
+        "correcto": false,
+        "justificacion": "La espiguilla es un tipo de ligamento, pero no el mencionado con esas características."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de un bastidor regulable en la conservación de una pintura sobre lienzo?",
+    "respuesta": [
+      {
+        "texto": "Proteger la pintura de golpes accidentales.",
+        "correcto": false,
+        "justificacion": "Aunque puede ofrecer cierta protección, su función principal se relaciona con el soporte textil."
+      },
+      {
+        "texto": "Mantener la tela tensa de forma uniforme, suavizando sus movimientos.",
+        "correcto": true,
+        "justificacion": "Los bastidores regulables permiten mantener una tensión uniforme en la tela, estabilizando el soporte y suavizando los movimientos provocados por cambios ambientales."
+      },
+      {
+        "texto": "Evitar que la tela se oxide.",
+        "correcto": false,
+        "justificacion": "La oxidación de la tela se debe a factores químicos y ambientales, no se evita directamente con el bastidor."
+      },
+      {
+        "texto": "Permitir el traslado de la obra enrollándola.",
+        "correcto": false,
+        "justificacion": "Enrollar una obra pintada sobre lienzo requiere retirarla del bastidor."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Qué provoca la oxidación de la celulosa en los soportes textiles, siendo un proceso irreversible e inevitable pero que se puede retardar?",
+    "respuesta": [
+      {
+        "texto": "La humedad excesiva.",
+        "correcto": false,
+        "justificacion": "La humedad es un factor de deterioro, pero la oxidación de la celulosa se debe a la acción de otro elemento."
+      },
+      {
+        "texto": "El contacto con la madera del bastidor.",
+        "correcto": false,
+        "justificacion": "El contacto con metales o grasas/aceites sí aceleran la oxidación, no la madera en sí."
+      },
+      {
+        "texto": "El oxígeno activado del aire, las grasas/aceites y la luz.",
+        "correcto": true,
+        "justificacion": "La oxidación de la celulosa es causada por el oxígeno activado, y acelerada por grasas/aceites (que forman peróxidos) y la luz (radiación UV)."
+      },
+      {
+        "texto": "Los ataques de insectos xilófagos.",
+        "correcto": false,
+        "justificacion": "Los insectos xilófagos se alimentan de la celulosa, causando biodeterioro, no oxidación química."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el primer antecedente del papel como material orgánico y ligero para la escritura?",
+    "respuesta": [
+      {
+        "texto": "El pergamino.",
+        "correcto": false,
+        "justificacion": "El pergamino es un soporte orgánico para escritura, pero es posterior y diferente del primer antecedente mencionado."
+      },
+      {
+        "texto": "La seda.",
+        "correcto": false,
+        "justificacion": "La seda se usó como soporte para pintura en China, pero no es el primer antecedente del papel para escritura mencionado."
+      },
+      {
+        "texto": "El papiro.",
+        "correcto": true,
+        "justificacion": "El papiro se describe como el primer antecedente del papel como material orgánico y ligero para la escritura."
+      },
+      {
+        "texto": "Las tablillas de arcilla.",
+        "correcto": false,
+        "justificacion": "Las tablillas de arcilla se usaban para escritura, pero son inorgánicas y no ligeras."
+      }
+    ]
+  },
+  {
+    "pregunta": "¿De qué material se obtiene el pergamino?",
+    "respuesta": [
+      {
+        "texto": "Del tallo de la caña de papel.",
+        "correcto": false,
+        "justificacion": "El papiro se obtiene del tallo de la caña de papel."
+      },
+      {
+        "texto": "De fibras textiles y agua.",
+        "correcto": false,
+        "justificacion": "El papel se obtiene de fibras textiles y agua."
+      },
+      {
+        "texto": "De piel de animales.",
+        "correcto": true,
+        "justificacion": "El pergamino se obtiene de piel de animales, principalmente oveja, cabra o vaca."
+      },
+      {
+        "texto": "Del líber de la higuera.",
+        "correcto": false,
+        "justificacion": "El amatl se obtiene del líber de ciertas moráceas como las higueras."
+      }
+    ]
+  }
+]
+

@@ -11,7 +11,7 @@ def read_json(input_file):
 
 def convert_to_markdown(quiz_data):
     markdown = []
-    markdown.append("# Preguntas y respuestas Técnicas Artísticas")
+    markdown.append("# Preguntas y respuestas Técnicas Artísticas\n\n")
 
     for question in quiz_data:
         # Add question as h1 header

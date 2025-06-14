@@ -1,4 +1,6 @@
-# Preguntas y respuestas Técnicas Artísticas## ¿Qué método de investigación de materiales artísticos se menciona que se utilizará en el curso, caracterizado por el análisis por niveles?
+# Preguntas y respuestas Técnicas Artísticas
+
+## ¿Qué método de investigación de materiales artísticos se menciona que se utilizará en el curso, caracterizado por el análisis por niveles?
 
 * ✗ Análisis cromático
   * El análisis cromático se centra en el color, no en la estructura por niveles.

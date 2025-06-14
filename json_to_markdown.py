@@ -11,16 +11,17 @@ def read_json(input_file):
 
 def convert_to_markdown(quiz_data):
     markdown = []
+    markdown.append("# Preguntas y respuestas Técnicas Artísticas")
 
     for question in quiz_data:
         # Add question as h1 header
-        markdown.append(f"# {question['pregunta']}\n")
+        markdown.append(f"## {question['pregunta']}\n\n")
 
         # Add answers with their correctness and justification
         for i, answer in enumerate(question['respuesta']):
             prefix = "✓" if answer['correcto'] else "✗"
             markdown.append(f"* {prefix} {answer['texto']}\n")
-            markdown.append(f"    * {answer['justificacion']}\n")
+            markdown.append(f"  * {answer['justificacion']}\n")
 
         # Add a blank line between questions
         markdown.append("\n")

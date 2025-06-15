@@ -465,10 +465,10 @@
                 const pigment = pigments.find(p => p.Nombre === cell.textContent);
                 if (pigment && pigment.Introducido <= maxYear) {
                     cell.style.backgroundColor = pigment.Color;
-                    cell.style.fontStyle = 'bold';
+                    cell.style.color = `#${(Number("0xFFFFFF") - Number(pigment.Color.replace('#', '0x'))).toString(16)}`;
                 } else {
                     cell.style.backgroundColor = 'white';
-                    cell.style.fontStyle = 'italic';
+                    cell.style.color = 'black';
                 }
             });
         }

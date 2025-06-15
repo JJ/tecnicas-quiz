@@ -32,7 +32,6 @@
         <thead>
             <tr>
                 <th>Color</th>
-                <th>Nombre</th>
             </tr>
         </thead>
         <tbody>
@@ -462,7 +461,7 @@
             const cell = document.createElement('td');
 
             // Calculate the opposite color by inverting RGB values
-            const oppositeColor = `#${(0xFFFFFF ^ parseInt(pigment.Color.slice(1), 16)).toString(16).padStart(6, '0')}`;
+            const oppositeColor = `#${(Number("0xFFFFFF") - Number(pigment.Color.replace('#', '0x'))).toString(16)}`;
 
             // Set styles and content
             cell.style.backgroundColor = pigment.Color;

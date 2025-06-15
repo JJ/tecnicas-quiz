@@ -449,7 +449,7 @@
   }
 ]
         // Sort by color code
-        const sortedPigments = pigments.sort((a, b) => a.Color.localeCompare(b.Color));
+        const sortedPigments = pigments.sort((a, b) => Number(a.Color.replace('#', '0x')) - Number(b.Color.replace('#', '0x')));
 
         // Get the table body
         const tbody = document.querySelector('#colorsTable tbody');

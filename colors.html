@@ -28,6 +28,11 @@
 </head>
 <body>
     <h1>Colores de Pigmentos</h1>
+    <div style="margin: 20px 0;">
+        <label for="yearSlider">Mostrar colores introducidos antes de:</label>
+        <input type="range" id="yearSlider" min="-40" max="20" value="20" step="1" style="width: 100%; margin: 10px 0;">
+        <div id="yearValue" style="text-align: right; margin-top: 5px;">20</div>
+    </div>
     <table id="colorsTable">
         <thead>
             <tr>
@@ -38,9 +43,7 @@
         </tbody>
     </table>
 
-    <script>
-        // Embedded JSON data
-        const pigments = [
+    <script>const pigments = [
   {
     "Nombre": "Blanco de Plomo",
     "Color": "#F8F8F8",
@@ -446,18 +449,41 @@
       "Fórmula": "Cr_2O_3·nH_2O"
     }
   }
-]
-        // Sort by color code
-        const sortedPigments = pigments.sort((a, b) => Number(a.Color.replace('#', '0x')) - Number(b.Color.replace('#', '0x')));
+        ];
 
-        // Get the table body
+        // Initialize slider
+        const slider = document.getElementById('yearSlider');
+        const yearValue = document.getElementById('yearValue');
+
+        // Update year display when slider moves
+        slider.oninput = function() {
+            yearValue.textContent = this.value;
+            filterColors(this.value);
+        }
+
+        // Function to filter colors based on introduction year
+        function filterColors(maxYear) {
+            const rows = document.querySelectorAll('#colorsTable tbody tr');
+            rows.forEach(row => {
+                const cell = row.querySelector('td');
+                const pigment = pigments.find(p => p.Nombre === cell.textContent);
+                if (pigment && pigment.Introducido <= maxYear) {
+                    cell.style.backgroundColor = pigment.Color;
+                    cell.style.fontStyle = 'bold';
+                } else {
+                    cell.style.backgroundColor = 'white';
+                    cell.style.fontStyle = 'italic';
+                }
+            });
+        }
+
+        // Initial sort and display
+        const sortedPigments = pigments.sort((a, b) => Number(a.Color.replace('#', '0x')) - Number(b.Color.replace('#', '0x')));
         const tbody = document.querySelector('#colorsTable tbody');
 
         // Create table rows
         sortedPigments.forEach(pigment => {
             const row = document.createElement('tr');
-
-            // Create a single cell with both color background and name
             const cell = document.createElement('td');
 
             // Calculate the opposite color by inverting RGB values
@@ -468,13 +494,15 @@
             cell.style.color = oppositeColor;
             cell.style.padding = '12px';
             cell.textContent = pigment.Nombre;
+            cell.style.fontStyle = 'bold';
 
             // Add cell to row
             row.appendChild(cell);
-
-            // Add row to table
             tbody.appendChild(row);
         });
+
+        // Initialize slider value
+        filterColors(slider.value);
     </script>
 </body>
 </html>

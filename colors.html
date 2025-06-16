@@ -28,6 +28,16 @@
 </head>
 <body>
     <div style="margin: 20px 0;">
+        <label for="filterElement">Filtrar por elemento químico:</label>
+        <select id="filterElement" style="margin-right: 20px;">
+            <option value="">Todos</option>
+            <option value="Si">Silicio (Si)</option>
+            <option value="Fe">Hierro (Fe)</option>
+            <option value="Cu">Cobre (Cu)</option>
+            <option value="Pb">Plomo (Pb)</option>
+            <option value="Hg">Mercurio (Hg)</option>
+        </select>
+
         <label for="yearSlider">Mostrar colores introducidos antes de:</label>
         <input type="range" id="yearSlider" min="0" max="20" value="20" step="1" style="width: 100%; margin: 10px 0;">
         <div id="yearValue" style="text-align: right; margin-top: 5px;">20</div>
@@ -447,23 +457,40 @@
   }
         ];
 
-        // Initialize slider
+        // Initialize slider and filter
         const slider = document.getElementById('yearSlider');
         const yearValue = document.getElementById('yearValue');
+        const filterElement = document.getElementById('filterElement');
 
-        // Update year display when slider moves
+        // Update filters when slider moves
         slider.oninput = function() {
             yearValue.textContent = this.value;
-            filterColors(this.value);
+            filterColors(this.value, filterElement.value);
         }
 
-        // Function to filter colors based on introduction year
-        function filterColors(maxYear) {
+        // Update filters when element selection changes
+        filterElement.onchange = function() {
+            filterColors(slider.value, this.value);
+        }
+
+        // Function to check if a pigment contains the selected element
+        function containsElement(pigment, element) {
+            const formula = pigment.Fórmula.Fórmula;
+            return formula.includes(element);
+        }
+
+        // Function to filter colors based on introduction year and selected element
+        function filterColors(maxYear, element) {
             const rows = document.querySelectorAll('#colorsTable tbody tr');
             rows.forEach(row => {
                 const cell = row.querySelector('td');
                 const pigment = pigments.find(p => p.Nombre === cell.textContent);
-                if (pigment && pigment.Introducido <= maxYear) {
+
+                // Check both year and element filter
+                const yearMatch = pigment && pigment.Introducido <= maxYear;
+                const elementMatch = !element || containsElement(pigment, element);
+
+                if (yearMatch && elementMatch) {
                     cell.style.backgroundColor = pigment.Color;
                     cell.style.color = `#${(Number("0xFFFFFF") - Number(pigment.Color.replace('#', '0x'))).toString(16)}`;
                 } else {
